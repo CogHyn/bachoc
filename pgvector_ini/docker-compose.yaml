@@ -14,7 +14,7 @@ services:
       - "-c"
       - "shared_preload_libraries=vector"
       - "-c"
-      - "vector.max_dimensions=3072"
+      - "vector.max_dimensions=896"
     ports:
       - "5432:5432"
     volumes:
@@ -25,18 +25,6 @@ services:
       interval: 5s
       timeout: 3s
       retries: 10
-
-  pgadmin:
-    image: dpage/pgadmin4:latest
-    container_name: pgadmin
-    restart: unless-stopped
-    environment:
-      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_EMAIL:-admin@example.com}
-      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD:-admin}
-    ports:
-      - "8080:80"
-    depends_on:
-      - db
 
 volumes:
   pgdata:

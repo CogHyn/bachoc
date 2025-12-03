@@ -1,0 +1,627 @@
+{
+  "stages": [
+    {
+      "main_subject": "NGUYỄN THƯỢNG NGHĨA",
+      "triples": [
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "sinh ngày",
+          "object": "01-01-1964",
+          "metadata": {
+            "source": "Ngày tháng năm sinh: 01/01/1964; Nam: Nữ"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "giới tính",
+          "object": "Nam",
+          "metadata": {
+            "source": "Ngày tháng năm sinh: 01/01/1964; Nam: Nữ"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "quốc tịch",
+          "object": "Việt Nam",
+          "metadata": {
+            "source": "Quốc tịch: Việt Nam"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "dân tộc",
+          "object": "Kinh",
+          "metadata": {
+            "source": "Dân tộc: Kinh"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "tôn giáo",
+          "object": "Không",
+          "metadata": {
+            "source": "Tôn giáo: Không"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "là Đảng viên Đảng Cộng sản Việt Nam",
+          "object": "3",
+          "metadata": {
+            "source": "Đảng viên Đảng Cộng sản Việt Nam"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "quê quán",
+          "object": "Quảng Ngãi",
+          "metadata": {
+            "source": "Quê quán (xã/phường, huyện/quận, tỉnh/thành phố): Quảng Ngãi"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "hộ khẩu thường trú",
+          "object": "400 Lê Văn Sỹ Phường 14 Quận 3 Tp Hồ Chí Minh",
+          "metadata": {
+            "source": "Nơi đăng ký hộ khẩu thường trú (số nhà, phố/thôn, xã/phường, huyện/quận,\ntỉnh/thành phố): 400 Lê Văn Sỹ Phường 14 Quận 3 Tp Hồ Chí Minh."
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "địa chỉ liên hệ",
+          "object": "Bệnh viện Chợ Rẫy, 201B Nguyễn Chí Thanh Phường 12, Quận 5, Tp Hồ Chí Minh",
+          "metadata": {
+            "source": "Địa chỉ liên hệ (ghi rõ, đầy đủ để liên hệ được qua Bưu điện): Bệnh viện Chợ Rẫy,\n201B Nguyễn Chí Thanh Phường 12, Quận 5, Tp Hồ Chí Minh."
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "điện thoại di động",
+          "object": "0908011848",
+          "metadata": {
+            "source": "Điện thoại di động: 0908011848"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "email",
+          "object": "nghia2000@gmail.com",
+          "metadata": {
+            "source": "E-mail: nghia2000@gmail.com"
+          }
+        }
+      ]
+    },
+    {
+      "main_subject": "NGUYỄN THƯỢNG NGHĨA",
+      "triples": [
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ nội trú",
+          "metadata": {
+            "source": "Từ năm: 1988 đến năm 1992: Bác sĩ nội trú, khoa Tim Mạch bệnh viện Chợ Rẫy"
+          }
+        },
+        {
+          "subject": "Bác sĩ nội trú",
+          "predicate": "công tác tại",
+          "object": "khoa Tim Mạch",
+          "metadata": {
+            "source": "Từ năm: 1988 đến năm 1992: Bác sĩ nội trú, khoa Tim Mạch bệnh viện Chợ Rẫy"
+          }
+        },
+        {
+          "subject": "khoa Tim Mạch",
+          "predicate": "thuộc",
+          "object": "bệnh viện Chợ Rẫy",
+          "metadata": {
+            "source": "Từ năm: 1988 đến năm 1992: Bác sĩ nội trú, khoa Tim Mạch bệnh viện Chợ Rẫy"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ điều trị",
+          "metadata": {
+            "source": "Từ năm: 1992 đến năm 1994: Bác sĩ điều trị, Bộ môn Nội - Khoa Tim Mạch BV\nChợ Rẫy"
+          }
+        },
+        {
+          "subject": "Bác sĩ điều trị",
+          "predicate": "công tác tại",
+          "object": "Bộ môn Nội",
+          "metadata": {
+            "source": "Từ năm: 1992 đến năm 1994: Bác sĩ điều trị, Bộ môn Nội - Khoa Tim Mạch BV\nChợ Rẫy"
+          }
+        },
+        {
+          "subject": "Bộ môn Nội",
+          "predicate": "thuộc",
+          "object": "Khoa Tim Mạch BV",
+          "metadata": {
+            "source": "Từ năm: 1992 đến năm 1994: Bác sĩ điều trị, Bộ môn Nội - Khoa Tim Mạch BV\nChợ Rẫy"
+          }
+        },
+        {
+          "subject": "Khoa Tim Mạch BV",
+          "predicate": "thuộc",
+          "object": "Chợ Rẫy",
+          "metadata": {
+            "source": "Từ năm: 1992 đến năm 1994: Bác sĩ điều trị, Bộ môn Nội - Khoa Tim Mạch BV\nChợ Rẫy"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ phòng khám xuất cảnh",
+          "metadata": {
+            "source": "Từ năm: 1995 đến năm 1997: Bác sĩ phòng khám xuất cảnh, bệnh viện Chợ Rẫy"
+          }
+        },
+        {
+          "subject": "Bác sĩ phòng khám xuất cảnh",
+          "predicate": "công tác tại",
+          "object": "bệnh viện Chợ Rẫy",
+          "metadata": {
+            "source": "Từ năm: 1995 đến năm 1997: Bác sĩ phòng khám xuất cảnh, bệnh viện Chợ Rẫy"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ chuyên khoa Tim mạch",
+          "metadata": {
+            "source": "Từ năm: 1998 đến năm 2003: Bác sĩ chuyên khoa Tim mạch, Tổ trưởng tổ chụp\nvà can thiệp động mạch vành, khoa Tim Mạch bệnh viện Chợ Rẫy X"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "giữ chức vụ",
+          "object": "Tổ trưởng tổ chụp và can thiệp động mạch vành",
+          "metadata": {
+            "source": "Từ năm: 1998 đến năm 2003: Bác sĩ chuyên khoa Tim mạch, Tổ trưởng tổ chụp\nvà can thiệp động mạch vành, khoa Tim Mạch bệnh viện Chợ Rẫy X"
+          }
+        },
+        {
+          "subject": "Tổ trưởng tổ chụp và can thiệp động mạch vành",
+          "predicate": "thuộc",
+          "object": "khoa Tim Mạch",
+          "metadata": {
+            "source": "Từ năm: 1998 đến năm 2003: Bác sĩ chuyên khoa Tim mạch, Tổ trưởng tổ chụp\nvà can thiệp động mạch vành, khoa Tim Mạch bệnh viện Chợ Rẫy X"
+          }
+        },
+        {
+          "subject": "khoa Tim Mạch",
+          "predicate": "thuộc",
+          "object": "bệnh viện Chợ Rẫy",
+          "metadata": {
+            "source": "Từ năm: 1998 đến năm 2003: Bác sĩ chuyên khoa Tim mạch, Tổ trưởng tổ chụp\nvà can thiệp động mạch vành, khoa Tim Mạch bệnh viện Chợ Rẫy X"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "giữ chức vụ",
+          "object": "Phó trưởng khoa",
+          "metadata": {
+            "source": "Từ năm: 2004 đến năm 2015: Phó trưởng khoa, Khoa Tim Mạch Can Thiệp BV Chợ\nRẫy"
+          }
+        },
+        {
+          "subject": "Phó trưởng khoa",
+          "predicate": "thuộc",
+          "object": "Khoa Tim Mạch Can Thiệp BV",
+          "metadata": {
+            "source": "Từ năm: 2004 đến năm 2015: Phó trưởng khoa, Khoa Tim Mạch Can Thiệp BV Chợ\nRẫy"
+          }
+        },
+        {
+          "subject": "Khoa Tim Mạch Can Thiệp BV",
+          "predicate": "thuộc",
+          "object": "Chợ Rẫy",
+          "metadata": {
+            "source": "Từ năm: 2004 đến năm 2015: Phó trưởng khoa, Khoa Tim Mạch Can Thiệp BV Chợ\nRẫy"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "giữ chức vụ",
+          "object": "Phó Giám đốc Trung tâm Tim Mạch kiêm Trưởng khoa Tim Mạch Can Thiệp",
+          "metadata": {
+            "source": "Từ tháng 6/2015 đến nay: Phó Giám đốc Trung tâm Tim Mạch kiêm Trưởng khoa\nTim Mạch Can Thiệp Bệnh viện Chợ Rẫy"
+          }
+        },
+        {
+          "subject": "Phó Giám đốc Trung tâm Tim Mạch kiêm Trưởng khoa Tim Mạch Can Thiệp",
+          "predicate": "thuộc",
+          "object": "Bệnh viện Chợ Rẫy",
+          "metadata": {
+            "source": "Từ tháng 6/2015 đến nay: Phó Giám đốc Trung tâm Tim Mạch kiêm Trưởng khoa\nTim Mạch Can Thiệp Bệnh viện Chợ Rẫy"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "chức vụ cao nhất",
+          "object": "Phó Giám đốc Trung tâm Tim Mạch kiêm Trưởng khoa Tim Mạch Can Thiệp",
+          "metadata": {
+            "source": "- Chức vụ hiện nay: Phó Giám đốc Trung tâm Tim Mạch kiêm Trưởng khoa Tim\nMạch Can Thiệp bệnh viện Chợ Rẫy;"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "chức vụ cao nhất",
+          "object": "Phó Giám đốc Trung tâm Tim Mạch",
+          "metadata": {
+            "source": "- Chức vụ cao nhất đã qua: Phó Giám đốc Trung tâm Tim Mạch"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "cơ quan công tác hiện nay",
+          "object": "Bệnh viện Chợ Rẫy",
+          "metadata": {
+            "source": "- Cơ quan công tác hiện nay: Bệnh viện Chợ Rẫy"
+          }
+        },
+        {
+          "subject": "Bệnh viện Chợ Rẫy",
+          "predicate": "có địa chỉ",
+          "object": "201B Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh",
+          "metadata": {
+            "source": "- Địa chỉ cơ quan: 201B Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh"
+          }
+        },
+        {
+          "subject": "Bệnh viện Chợ Rẫy",
+          "predicate": "có số điện thoại",
+          "object": "028 39557119",
+          "metadata": {
+            "source": "- Điện thoại cơ quan: 028 39557119"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "thỉnh giảng tại",
+          "object": "Đại học Y Dược TPHCM",
+          "metadata": {
+            "source": "- Thỉnh giảng tại các cơ sở giáo dục đại học:\no Đại học Y Dược TPHCM"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "thỉnh giảng tại",
+          "object": "Khoa Y Đại học Quốc gia Tp Hồ Chí Minh",
+          "metadata": {
+            "source": "- Thỉnh giảng tại các cơ sở giáo dục đại học:\no Khoa Y Đại học Quốc gia Tp Hồ Chí Minh"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "thỉnh giảng tại",
+          "object": "Trường đại học Y Khoa Phạm Ngọc Thạch",
+          "metadata": {
+            "source": "- Thỉnh giảng tại các cơ sở giáo dục đại học:\no Trường đại học Y Khoa Phạm Ngọc Thạch"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "thỉnh giảng tại",
+          "object": "Đại học Y Dược TPHCM",
+          "metadata": {
+            "source": "o Đại học Y Dược TPHCM;"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "thỉnh giảng tại",
+          "object": "Khoa Y Đại học Quốc gia Tp Hồ Chí Minh",
+          "metadata": {
+            "source": "o Khoa Y Đại học Quốc gia Tp Hồ Chí Minh;"
+          }
+        }
+      ]
+    },
+    {
+      "main_subject": "NGUYỄN THƯỢNG NGHĨA",
+      "triples": [
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "được cấp",
+          "object": "bằng Đại học",
+          "metadata": {
+            "source": "- Được cấp bằng Đại học ngày 21 tháng 05 năm 1990; số văn bằng: A 62057; ngành:\nY, chuyên ngành: Đa khoa hệ nội; Nơi cấp bằng Đại học: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Đại học",
+          "predicate": "có số hiệu",
+          "object": "A 62057",
+          "metadata": {
+            "source": "- Được cấp bằng Đại học ngày 21 tháng 05 năm 1990; số văn bằng: A 62057; ngành:\nY, chuyên ngành: Đa khoa hệ nội; Nơi cấp bằng Đại học: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Đại học",
+          "predicate": "ngành",
+          "object": "Y",
+          "metadata": {
+            "source": "- Được cấp bằng Đại học ngày 21 tháng 05 năm 1990; số văn bằng: A 62057; ngành:\nY, chuyên ngành: Đa khoa hệ nội; Nơi cấp bằng Đại học: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Đại học",
+          "predicate": "chuyên ngành",
+          "object": "Đa khoa hệ nội",
+          "metadata": {
+            "source": "- Được cấp bằng Đại học ngày 21 tháng 05 năm 1990; số văn bằng: A 62057; ngành:\nY, chuyên ngành: Đa khoa hệ nội; Nơi cấp bằng Đại học: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Đại học",
+          "predicate": "được cấp tại",
+          "object": "Đại học Y Dược tp Hồ Chí Minh",
+          "metadata": {
+            "source": "- Được cấp bằng Đại học ngày 21 tháng 05 năm 1990; số văn bằng: A 62057; ngành:\nY, chuyên ngành: Đa khoa hệ nội; Nơi cấp bằng Đại học: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "Đại học Y Dược tp Hồ Chí Minh",
+          "predicate": "tọa lạc ở",
+          "object": "Việt Nam",
+          "metadata": {
+            "source": "- Được cấp bằng Đại học ngày 21 tháng 05 năm 1990; số văn bằng: A 62057; ngành:\nY, chuyên ngành: Đa khoa hệ nội; Nơi cấp bằng Đại học: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "được cấp",
+          "object": "bằng Thạc sĩ",
+          "metadata": {
+            "source": "- Được cấp bằng Thạc sĩ ngày 11 tháng 05 năm 1998; số văn bằng: 7472; ngành: Y;\nchuyên ngành: Thạc sĩ Y học; Nơi cấp bằng Thạc sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Thạc sĩ",
+          "predicate": "có số hiệu",
+          "object": "7472",
+          "metadata": {
+            "source": "- Được cấp bằng Thạc sĩ ngày 11 tháng 05 năm 1998; số văn bằng: 7472; ngành: Y;\nchuyên ngành: Thạc sĩ Y học; Nơi cấp bằng Thạc sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Thạc sĩ",
+          "predicate": "ngành",
+          "object": "Y",
+          "metadata": {
+            "source": "- Được cấp bằng Thạc sĩ ngày 11 tháng 05 năm 1998; số văn bằng: 7472; ngành: Y;\nchuyên ngành: Thạc sĩ Y học; Nơi cấp bằng Thạc sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Thạc sĩ",
+          "predicate": "chuyên ngành",
+          "object": "Thạc sĩ Y học",
+          "metadata": {
+            "source": "- Được cấp bằng Thạc sĩ ngày 11 tháng 05 năm 1998; số văn bằng: 7472; ngành: Y;\nchuyên ngành: Thạc sĩ Y học; Nơi cấp bằng Thạc sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Thạc sĩ",
+          "predicate": "được cấp tại",
+          "object": "Đại học Y Dược tp Hồ Chí Minh",
+          "metadata": {
+            "source": "- Được cấp bằng Thạc sĩ ngày 11 tháng 05 năm 1998; số văn bằng: 7472; ngành: Y;\nchuyên ngành: Thạc sĩ Y học; Nơi cấp bằng Thạc sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "được cấp",
+          "object": "bằng Tiến sĩ",
+          "metadata": {
+            "source": "- Được cấp bằng Tiến sĩ ngày 18 tháng 06 năm 2012; số văn bằng: 000588; ngành:\nY; chuyên ngành: Tiến sỹ Y học; Nơi cấp bằng Tiến sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Tiến sĩ",
+          "predicate": "có số hiệu",
+          "object": "000588",
+          "metadata": {
+            "source": "- Được cấp bằng Tiến sĩ ngày 18 tháng 06 năm 2012; số văn bằng: 000588; ngành:\nY; chuyên ngành: Tiến sỹ Y học; Nơi cấp bằng Tiến sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Tiến sĩ",
+          "predicate": "ngành",
+          "object": "Y",
+          "metadata": {
+            "source": "- Được cấp bằng Tiến sĩ ngày 18 tháng 06 năm 2012; số văn bằng: 000588; ngành:\nY; chuyên ngành: Tiến sỹ Y học; Nơi cấp bằng Tiến sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Tiến sĩ",
+          "predicate": "chuyên ngành",
+          "object": "Tiến sỹ Y học",
+          "metadata": {
+            "source": "- Được cấp bằng Tiến sĩ ngày 18 tháng 06 năm 2012; số văn bằng: 000588; ngành:\nY; chuyên ngành: Tiến sỹ Y học; Nơi cấp bằng Tiến sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "bằng Tiến sĩ",
+          "predicate": "được cấp tại",
+          "object": "Đại học Y Dược tp Hồ Chí Minh",
+          "metadata": {
+            "source": "- Được cấp bằng Tiến sĩ ngày 18 tháng 06 năm 2012; số văn bằng: 000588; ngành:\nY; chuyên ngành: Tiến sỹ Y học; Nơi cấp bằng Tiến sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "Đại học Y Dược tp Hồ Chí Minh",
+          "predicate": "tọa lạc ở",
+          "object": "Việt Nam",
+          "metadata": {
+            "source": "- Được cấp bằng Tiến sĩ ngày 18 tháng 06 năm 2012; số văn bằng: 000588; ngành:\nY; chuyên ngành: Tiến sỹ Y học; Nơi cấp bằng Tiến sĩ: Đại học Y Dược tp Hồ Chí Minh – Việt Nam"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS cơ sở",
+          "object": "Đại học Y\nDược TPHCM",
+          "metadata": {
+            "source": "10. Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo sư tại HĐGS cơ sở: Đại học Y\nDược TPHCM"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS ngành, liên ngành",
+          "object": "Y Khoa",
+          "metadata": {
+            "source": "11. Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo sư tại HĐGS ngành, liên ngành:\nY Khoa"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Nghiên cứu ứng dụng các phương pháp chẩn đoán bệnh tim mạch, đặc biệt bệnh\ntăng huyết áp và bệnh mạch vành",
+          "metadata": {
+            "source": "Nghiên cứu ứng dụng các phương pháp chẩn đoán bệnh tim mạch, đặc biệt bệnh\ntăng huyết áp và bệnh mạch vành"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Nghiên cứu ứng dụng phương pháp tái thông động mạch vành qua ống thông trong\nđiều trị nhồi máu cơ tim cấp và bệnh mạch vành mãn tính",
+          "metadata": {
+            "source": "- Nghiên cứu ứng dụng phương pháp tái thông động mạch vành qua ống thông trong\nđiều trị nhồi máu cơ tim cấp và bệnh mạch vành mãn tính"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Nghiên cứu ứng dụng kỹ thuật can thiệp qua ống thông trong điều trị bệnh tim\nbẩm sinh và cấu trúc",
+          "metadata": {
+            "source": "- Nghiên cứu ứng dụng kỹ thuật can thiệp qua ống thông trong điều trị bệnh tim\nbẩm sinh và cấu trúc"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Nghiên cứu các biện pháp giám sát, đánh giá và phòng chống trong chiến lược\nphòng chống bệnh tim mạch Quốc gia Việt Nam.",
+          "metadata": {
+            "source": "- Nghiên cứu các biện pháp giám sát, đánh giá và phòng chống trong chiến lược\nphòng chống bệnh tim mạch Quốc gia Việt Nam."
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Nghiên cứu các biện pháp tầm soát để phát hiện và kiểm soát các yếu tố nguy cơ\ntim mạch trong cộng đồng như: Hút thuốc lá, đái tháo đường, tăng huyết áp, rối loạn lipid máu,…",
+          "metadata": {
+            "source": "- Nghiên cứu các biện pháp tầm soát để phát hiện và kiểm soát các yếu tố nguy cơ\ntim mạch trong cộng đồng như: Hút thuốc lá, đái tháo đường, tăng huyết áp, rối loạn lipid máu,…"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Nghiên cứu các biện pháp tầm soát để phát hiện các bệnh tim bẩm sinh ở trẻ em\nđể có biện pháp điều trị sớm ngay từ đầu.",
+          "metadata": {
+            "source": "- Nghiên cứu các biện pháp tầm soát để phát hiện các bệnh tim bẩm sinh ở trẻ em\nđể có biện pháp điều trị sớm ngay từ đầu."
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã hướng dẫn bảo vệ thành công luận văn",
+          "object": "18 HVCH/CK2/BSNT",
+          "metadata": {
+            "source": "- Đã hướng dẫn 18 HVCH/CK2/BSNT và các học viên đã bảo vệ thành công luận\nvăn ThS/CK2 /BSNT;"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã hướng dẫn bảo vệ thành công luận văn",
+          "object": "các học viên đã bảo vệ thành công luận\nvăn ThS/CK2 /BSNT",
+          "metadata": {
+            "source": "- Đã hướng dẫn 18 HVCH/CK2/BSNT và các học viên đã bảo vệ thành công luận\nvăn ThS/CK2 /BSNT;"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
+          "object": "14 đề tài",
+          "metadata": {
+            "source": "- Đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên: gồm 14 đề tài;"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
+          "object": "06 đề tài cấp cơ sở",
+          "metadata": {
+            "source": "trong đó có 06\nđề tài cấp cơ sở, 02 đề tài cấp thành phố, 04 đề tài cấp bộ và 02 đề tài cấp nhà nước."
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
+          "object": "02 đề tài cấp thành phố",
+          "metadata": {
+            "source": "trong đó có 06\nđề tài cấp cơ sở, 02 đề tài cấp thành phố, 04 đề tài cấp bộ và 02 đề tài cấp nhà nước."
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
+          "object": "04 đề tài cấp bộ",
+          "metadata": {
+            "source": "trong đó có 06\nđề tài cấp cơ sở, 02 đề tài cấp thành phố, 04 đề tài cấp bộ và 02 đề tài cấp nhà nước."
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
+          "object": "02 đề tài cấp nhà nước",
+          "metadata": {
+            "source": "trong đó có 06\nđề tài cấp cơ sở, 02 đề tài cấp thành phố, 04 đề tài cấp bộ và 02 đề tài cấp nhà nước."
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã công bố",
+          "object": "56 bài báo khoa học",
+          "metadata": {
+            "source": "- Đã công bố 56 bài báo khoa học, trong đó có 16 bài báo khoa học được đăng trên\ntạp chí quốc tế và là tác giả chính của 05 bài báo được đăng trên tạp chí quốc tế uy tín có trong hệ thống ISI, Scopus"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã công bố",
+          "object": "16 bài báo khoa học được đăng trên\ntạp chí quốc tế",
+          "metadata": {
+            "source": "- Đã công bố 56 bài báo khoa học, trong đó có 16 bài báo khoa học được đăng trên\ntạp chí quốc tế và là tác giả chính của 05 bài báo được đăng trên tạp chí quốc tế uy tín có trong hệ thống ISI, Scopus"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "là tác giả chính của",
+          "object": "05 bài báo được đăng trên tạp chí quốc tế uy tín có trong hệ thống ISI, Scopus",
+          "metadata": {
+            "source": "- Đã công bố 56 bài báo khoa học, trong đó có 16 bài báo khoa học được đăng trên\ntạp chí quốc tế và là tác giả chính của 05 bài báo được đăng trên tạp chí quốc tế uy tín có trong hệ thống ISI, Scopus"
+          }
+        },
+        {
+          "subject": "NGUYỄN THƯỢNG NGHĨA",
+          "predicate": "đã xuất bản",
+          "object": "02 quyển",
+          "metadata": {
+            "source": "- Số lượng sách đã xuất bản 02 quyển thuộc nhà xuất bản Y học"
+          }
+        },
+        {
+          "subject": "02 quyển",
+          "predicate": "thuộc",
+          "object": "nhà xuất bản Y học",
+          "metadata": {
+            "source": "- Số lượng sách đã xuất bản 02 quyển thuộc nhà xuất bản Y học"
+          }
+        }
+      ]
+    }
+  ]
+}

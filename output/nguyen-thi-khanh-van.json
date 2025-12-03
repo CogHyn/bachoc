@@ -1,0 +1,603 @@
+{
+  "stages": [
+    {
+      "main_subject": "Nguyễn Thị Khánh Vân",
+      "triples": [
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "sinh ngày",
+          "object": "02-09-1969",
+          "metadata": {
+            "source": "Ngày tháng năm sinh: 02/09/1969"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "giới tính",
+          "object": "Nữ",
+          "metadata": {
+            "source": "Ngày tháng năm sinh: 02/09/1969; Nam \t; Nữ \t"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "quốc tịch",
+          "object": "Việt Nam",
+          "metadata": {
+            "source": "Quốc tịch: Việt Nam"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "dân tộc",
+          "object": "Kinh",
+          "metadata": {
+            "source": "Dân tộc: Kinh"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "tôn giáo",
+          "object": "Không",
+          "metadata": {
+            "source": "Tôn giáo: Không"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "quê quán",
+          "object": "Xã Chí Tiên, huyện Thanh Ba, tỉnh Phú Thọ.",
+          "metadata": {
+            "source": "Quê quán: Xã Chí Tiên, huyện Thanh Ba, tỉnh Phú Thọ."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "hộ khẩu thường trú",
+          "object": "phòng 304, nhà E5, phường Thanh Xuân Bắc, quận Thanh Xuân, thành phố Hà Nội",
+          "metadata": {
+            "source": "Nơi đăng ký hộ khẩu thường trú: phòng 304, nhà E5, phường Thanh Xuân Bắc, quận\nThanh Xuân, thành phố Hà Nội"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "địa chỉ liên hệ",
+          "object": "Khoa Khám bệnh, Bệnh viện Tai Mũi Họng Trung ương, 78 đường Giải\nPhóng, quận Đống Đa, thành phố Hà Nội",
+          "metadata": {
+            "source": "Địa chỉ liên hệ: Khoa Khám bệnh, Bệnh viện Tai Mũi Họng Trung ương, 78 đường Giải\nPhóng, quận Đống Đa, thành phố Hà Nội"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "điện thoại di động",
+          "object": "0915 09 33 89",
+          "metadata": {
+            "source": "Điện thoại di động: 0915 09 33 89"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "email",
+          "object": "khanhvantmhtw@gmail.com",
+          "metadata": {
+            "source": "E-mail: khanhvantmhtw@gmail.com"
+          }
+        }
+      ]
+    },
+    {
+      "main_subject": "Nguyễn Thị Khánh Vân",
+      "triples": [
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "học đại học tại",
+          "object": "Trường Đại học Y Hà Nội",
+          "metadata": {
+            "source": "- Từ tháng 9/1986 đến tháng 7/1992: Học Bác sĩ Đa khoa, Trường Đại học Y Hà Nội"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "học ngành",
+          "object": "Bác sĩ Đa khoa",
+          "metadata": {
+            "source": "- Từ tháng 9/1986 đến tháng 7/1992: Học Bác sĩ Đa khoa, Trường Đại học Y Hà Nội"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ chuyên khoa Tai Mũi Họng",
+          "metadata": {
+            "source": "- Từ 1994 đến tháng 09/1998: Bác sĩ chuyên khoa Tai Mũi Họng, Trung tâm Y tế, Bộ\nXây dựng."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "công tác tại",
+          "object": "Trung tâm Y tế",
+          "metadata": {
+            "source": "- Từ 1994 đến tháng 09/1998: Bác sĩ chuyên khoa Tai Mũi Họng, Trung tâm Y tế, Bộ\nXây dựng."
+          }
+        },
+        {
+          "subject": "Trung tâm Y tế",
+          "predicate": "thuộc",
+          "object": "Bộ Xây dựng",
+          "metadata": {
+            "source": "- Từ 1994 đến tháng 09/1998: Bác sĩ chuyên khoa Tai Mũi Họng, Trung tâm Y tế, Bộ\nXây dựng."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "học Thạc sĩ",
+          "object": "Tai Mũi Họng",
+          "metadata": {
+            "source": "- Từ tháng 10/1998 đến tháng 02/2002: Học Thạc sĩ Tai Mũi Họng, Trường Đại học Y\nHà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "học đại học tại",
+          "object": "Trường Đại học Y Hà Nội",
+          "metadata": {
+            "source": "- Từ tháng 10/1998 đến tháng 02/2002: Học Thạc sĩ Tai Mũi Họng, Trường Đại học Y\nHà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ chuyên khoa Tai Mũi Họng",
+          "metadata": {
+            "source": "- Từ tháng 3/2002 đến tháng 2/2003: Bác sĩ chuyên khoa Tai Mũi Họng, Trung tâm Y tế,\nBộ Xây dựng."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "công tác tại",
+          "object": "Trung tâm Y tế",
+          "metadata": {
+            "source": "- Từ tháng 3/2002 đến tháng 2/2003: Bác sĩ chuyên khoa Tai Mũi Họng, Trung tâm Y tế,\nBộ Xây dựng."
+          }
+        },
+        {
+          "subject": "Trung tâm Y tế",
+          "predicate": "thuộc",
+          "object": "Bộ Xây dựng",
+          "metadata": {
+            "source": "- Từ tháng 3/2002 đến tháng 2/2003: Bác sĩ chuyên khoa Tai Mũi Họng, Trung tâm Y tế,\nBộ Xây dựng."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ chuyên khoa Tai Mũi Họng",
+          "metadata": {
+            "source": "- Từ tháng 3 năm năm 2003 đến nay: Bác sĩ chuyên khoa Tai Mũi Họng, Bệnh viện Tai\nMũi Họng Trung ương."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "công tác tại",
+          "object": "Bệnh viện Tai Mũi Họng Trung ương",
+          "metadata": {
+            "source": "- Từ tháng 3 năm năm 2003 đến nay: Bác sĩ chuyên khoa Tai Mũi Họng, Bệnh viện Tai\nMũi Họng Trung ương."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "học Tiến sĩ",
+          "object": "Tai Mũi Họng",
+          "metadata": {
+            "source": "- Từ tháng 3/2009 đến tháng 3/2012; Học Tiến sĩ Tai Mũi Họng, Trường Đại học Y\nHà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "học đại học tại",
+          "object": "Trường Đại học Y Hà Nội",
+          "metadata": {
+            "source": "- Từ tháng 3/2009 đến tháng 3/2012; Học Tiến sĩ Tai Mũi Họng, Trường Đại học Y\nHà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "giữ chức vụ",
+          "object": "Trưởng khoa Khám bệnh",
+          "metadata": {
+            "source": "- Từ tháng 5/2017 đến nay: Trưởng khoa Khám bệnh, Bệnh viện Tai Mũi Họng Trung ương."
+          }
+        },
+        {
+          "subject": "Trưởng khoa Khám bệnh",
+          "predicate": "thuộc",
+          "object": "Bệnh viện Tai Mũi Họng Trung ương",
+          "metadata": {
+            "source": "- Từ tháng 5/2017 đến nay: Trưởng khoa Khám bệnh, Bệnh viện Tai Mũi Họng Trung ương."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "chức vụ cao nhất",
+          "object": "Trưởng khoa Khám Bệnh",
+          "metadata": {
+            "source": "Chức vụ hiện nay: Trưởng khoa Khám Bệnh"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "cơ quan công tác hiện nay",
+          "object": "Bệnh viện Tai Mũi Họng Trung ương",
+          "metadata": {
+            "source": "Cơ quan công tác hiện nay: Bệnh viện Tai Mũi Họng Trung ương"
+          }
+        },
+        {
+          "subject": "Bệnh viện Tai Mũi Họng Trung ương",
+          "predicate": "có địa chỉ",
+          "object": "78 đường Giải Phóng, Đống Đa, Hà Nội",
+          "metadata": {
+            "source": "Địa chỉ cơ quan: 78 đường Giải Phóng, Đống Đa, Hà Nội"
+          }
+        },
+        {
+          "subject": "Bệnh viện Tai Mũi Họng Trung ương",
+          "predicate": "có số điện thoại",
+          "object": "024 3868 6050",
+          "metadata": {
+            "source": "Điện thoại cơ quan:024 3868 6050"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "thỉnh giảng tại",
+          "object": "Học viện Y - Dược học cổ truyền Việt Nam",
+          "metadata": {
+            "source": "Thỉnh giảng tại cơ sở giáo dục đại học: Học viện Y - Dược học cổ truyền Việt Nam;"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "thỉnh giảng tại",
+          "object": "Trường Đại học Y Dược – Đại học Quốc Gia Hà Nội",
+          "metadata": {
+            "source": "Trường Đại học Y Dược – Đại học Quốc Gia Hà Nội, Đại học Y Hà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "thỉnh giảng tại",
+          "object": "Đại học Y Hà Nội",
+          "metadata": {
+            "source": "Trường Đại học Y Dược – Đại học Quốc Gia Hà Nội, Đại học Y Hà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "đã nghỉ hưu",
+          "object": "Chưa",
+          "metadata": {
+            "source": "Đã nghỉ hưu: Chưa"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "thỉnh giảng tại",
+          "object": "Học viện Y - Dược học cổ truyền Việt Nam",
+          "metadata": {
+            "source": "Tên cơ sở giáo dục đại học nơi hợp đồng thỉnh giảng 3 năm cuối: Học viện Y - Dược học cổ truyền Việt Nam; Trường Đại học Y Dược – Đại học Quốc Gia Hà Nội, Đại học Y Hà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "thỉnh giảng tại",
+          "object": "Trường Đại học Y Dược – Đại học Quốc Gia Hà Nội",
+          "metadata": {
+            "source": "Tên cơ sở giáo dục đại học nơi hợp đồng thỉnh giảng 3 năm cuối: Học viện Y - Dược học cổ truyền Việt Nam; Trường Đại học Y Dược – Đại học Quốc Gia Hà Nội, Đại học Y Hà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "thỉnh giảng tại",
+          "object": "Đại học Y Hà Nội",
+          "metadata": {
+            "source": "Tên cơ sở giáo dục đại học nơi hợp đồng thỉnh giảng 3 năm cuối: Học viện Y - Dược học cổ truyền Việt Nam; Trường Đại học Y Dược – Đại học Quốc Gia Hà Nội, Đại học Y Hà Nội."
+          }
+        }
+      ]
+    },
+    {
+      "main_subject": "Nguyễn Thị Khánh Vân",
+      "triples": [
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "được cấp",
+          "object": "bằng ĐH",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 18 tháng 09 năm 1992."
+          }
+        },
+        {
+          "subject": "bằng ĐH",
+          "predicate": "có số hiệu",
+          "object": "A12426",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 18 tháng 09 năm 1992; số văn bằng: A12426 ."
+          }
+        },
+        {
+          "subject": "bằng ĐH",
+          "predicate": "ngành",
+          "object": "Bác sỹ",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 18 tháng 09 năm 1992; số văn bằng: A12426 ; ngành: Bác sỹ."
+          }
+        },
+        {
+          "subject": "bằng ĐH",
+          "predicate": "chuyên ngành",
+          "object": "Đa khoa",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 18 tháng 09 năm 1992; số văn bằng: A12426 ; ngành: Bác sỹ,\nchuyên ngành: Đa khoa"
+          }
+        },
+        {
+          "subject": "bằng ĐH",
+          "predicate": "được cấp tại",
+          "object": "Trường Đại học Y Hà Nội",
+          "metadata": {
+            "source": "Nơi cấp bằng ĐH: Trường Đại học Y Hà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "được cấp",
+          "object": "bằng ThS",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 22 tháng 02 năm 2002."
+          }
+        },
+        {
+          "subject": "bằng ThS",
+          "predicate": "có số hiệu",
+          "object": "21.907",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 22 tháng 02 năm 2002; số văn bằng: 21.907"
+          }
+        },
+        {
+          "subject": "bằng ThS",
+          "predicate": "ngành",
+          "object": "Y học",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 22 tháng 02 năm 2002; số văn bằng: 21.907; ngành: Y học"
+          }
+        },
+        {
+          "subject": "bằng ThS",
+          "predicate": "chuyên ngành",
+          "object": "Tai mũi họng",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 22 tháng 02 năm 2002; số văn bằng: 21.907; ngành: Y học;\nchuyên ngành: Tai mũi họng."
+          }
+        },
+        {
+          "subject": "bằng ThS",
+          "predicate": "được cấp tại",
+          "object": "Trường Đại học Y Hà Nội",
+          "metadata": {
+            "source": "Nơi cấp bằng ThS: Trường Đại học Y Hà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "được cấp",
+          "object": "bằng TS",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 25 tháng 03 năm 2013."
+          }
+        },
+        {
+          "subject": "bằng TS",
+          "predicate": "có số hiệu",
+          "object": "001945",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 25 tháng 03 năm 2013; số văn bằng: 001945"
+          }
+        },
+        {
+          "subject": "bằng TS",
+          "predicate": "ngành",
+          "object": "Tai mũi\nhọng",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 25 tháng 03 năm 2013; số văn bằng: 001945; ngành: Tai mũi\nhọng"
+          }
+        },
+        {
+          "subject": "bằng TS",
+          "predicate": "chuyên ngành",
+          "object": "Mũi họng",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 25 tháng 03 năm 2013; số văn bằng: 001945; ngành: Tai mũi\nhọng; chuyên ngành: Mũi họng."
+          }
+        },
+        {
+          "subject": "bằng TS",
+          "predicate": "được cấp tại",
+          "object": "Trường Đại học Y Hà Nội",
+          "metadata": {
+            "source": "Nơi cấp bằng TS: Trường Đại học Y Hà Nội."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS cơ sở",
+          "object": "Học viện Y –\nDược học cổ truyền Việt Nam",
+          "metadata": {
+            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo sư tại HĐGS cơ sở: Học viện Y –\nDược học cổ truyền Việt Nam."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS ngành, liên ngành",
+          "object": "Y học",
+          "metadata": {
+            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo sư tại HĐGS ngành, liên ngành: Y học"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Bệnh lý mũi xoang có và không có polyp mũi",
+          "metadata": {
+            "source": "Bệnh lý mũi xoang có và không có polyp mũi."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Ứng dụng laze diode điều trị u nang vòm mũi họng và u nang hạ họng",
+          "metadata": {
+            "source": "Ứng dụng laze diode điều trị u nang vòm mũi họng và u nang hạ họng."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Một số vấn đề khác của tai mũi họng",
+          "metadata": {
+            "source": "Một số vấn đề khác của tai mũi họng."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "đã hướng dẫn bảo vệ thành công luận văn",
+          "object": "06 HVCH và 02 BSNT bảo vệ thành công luận văn ThS và BSNT",
+          "metadata": {
+            "source": "Đã hướng dẫn 06 HVCH và 02 BSNT bảo vệ thành công luận văn ThS và BSNT"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "là hướng dẫn chính của",
+          "object": "06 HVCH và BSNT",
+          "metadata": {
+            "source": "là\nhướng dẫn chính của 06 HVCH và BSNT"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "hướng dẫn",
+          "object": "04 sinh viên tốt nghiệp khóa luận",
+          "metadata": {
+            "source": "hướng dẫn 04 sinh viên tốt nghiệp khóa luận."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
+          "object": "04 đề tài cấp cơ sở",
+          "metadata": {
+            "source": "Đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên: số lượng 04 đề tài cấp cơ sở"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "đã công bố",
+          "object": "44 bài báo khoa học",
+          "metadata": {
+            "source": "Đã công bố 44 bài báo khoa học"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "đã công bố",
+          "object": "06 bài báo khoa học trên tạp chí quốc tế có\nuy tín",
+          "metadata": {
+            "source": "trong đó 06 bài báo khoa học trên tạp chí quốc tế có\nuy tín"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "là tác giả chính của",
+          "object": "03 bài báo khoa học quốc tế uy tín",
+          "metadata": {
+            "source": "là tác giả chính của 03 bài báo khoa học quốc tế uy tín."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "đã xuất bản",
+          "object": "01 cuốn sách chuyên khảo",
+          "metadata": {
+            "source": "Số lượng sách đã xuất bản: 01 cuốn sách chuyên khảo"
+          }
+        },
+        {
+          "subject": "01 cuốn sách chuyên khảo",
+          "predicate": "thuộc",
+          "object": "nhà xuất bản y học có uy tín",
+          "metadata": {
+            "source": "thuộc nhà xuất bản y học có uy tín."
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "được khen thưởng",
+          "object": "Bằng khen của Bộ trưởng Bộ Y tế",
+          "metadata": {
+            "source": "Bằng khen của Bộ trưởng Bộ Y tế"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "được khen thưởng",
+          "object": "Bằng khen của Bộ trưởng Bộ Y tế",
+          "metadata": {
+            "source": "Bằng khen của Bộ trưởng Bộ Y tế"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "được khen thưởng",
+          "object": "Bằng khen của Thủ tướng Chính phủ",
+          "metadata": {
+            "source": "Bằng khen của Thủ tướng Chính phủ"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "được khen thưởng",
+          "object": "Bằng khen của Bộ trưởng Bộ Y tế",
+          "metadata": {
+            "source": "Bằng khen của Bộ trưởng Bộ Y tế"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "được khen thưởng",
+          "object": "Bằng khen của Bộ trưởng Bộ Y tế",
+          "metadata": {
+            "source": "Bằng khen của Bộ trưởng Bộ Y tế"
+          }
+        },
+        {
+          "subject": "Nguyễn Thị Khánh Vân",
+          "predicate": "đạt giải thưởng quốc gia quốc tế",
+          "object": "Giải nhất Hội nghị khoa học nghiên cứu sinh lần thứ XV năm 2019",
+          "metadata": {
+            "source": "Giải nhất Hội nghị khoa học nghiên cứu sinh lần thứ XV năm 2019, trường Đại học Y\nHà Nội"
+          }
+        },
+        {
+          "subject": "Giải nhất Hội nghị khoa học nghiên cứu sinh lần thứ XV năm 2019",
+          "predicate": "tọa lạc ở",
+          "object": "trường Đại học Y\nHà Nội",
+          "metadata": {
+            "source": "Giải nhất Hội nghị khoa học nghiên cứu sinh lần thứ XV năm 2019, trường Đại học Y\nHà Nội"
+          }
+        }
+      ]
+    }
+  ]
+}

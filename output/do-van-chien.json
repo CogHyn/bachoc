@@ -1,0 +1,675 @@
+{
+  "stages": [
+    {
+      "main_subject": "Đỗ Văn Chiến",
+      "triples": [
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "sinh ngày",
+          "object": "17-11-1980",
+          "metadata": {
+            "source": "Ngày tháng năm sinh: 17 - 11 - 1980"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "giới tính",
+          "object": "Nam",
+          "metadata": {
+            "source": "Nam"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "quốc tịch",
+          "object": "Việt Nam",
+          "metadata": {
+            "source": "Quốc tịch: Việt Nam"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "dân tộc",
+          "object": "Kinh",
+          "metadata": {
+            "source": "Dân tộc: Kinh"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "tôn giáo",
+          "object": "Không có",
+          "metadata": {
+            "source": "Tôn giáo: Không có"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "quê quán",
+          "object": "Hoằng Thắng, Hoằng Hóa, Thanh Hóa",
+          "metadata": {
+            "source": "Quê quán (xã/phường, huyện/quận, tỉnh/thành phố):\nHoằng Thắng, Hoằng Hóa, Thanh Hóa"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "hộ khẩu thường trú",
+          "object": "Căn hộ 15R09, TN HH báo LĐ&XH, phường Yên Hòa, Quận Cầu Giấy, Hà Nội.",
+          "metadata": {
+            "source": "Nơi đăng ký hộ khẩu thường trú (số nhà, phố/thôn, xã/phường, huyện/quận, tỉnh/thành\nphố): Căn hộ 15R09, TN HH báo LĐ&XH, phường Yên Hòa, Quận Cầu Giấy, Hà Nội."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "địa chỉ liên hệ",
+          "object": "Đỗ Văn Chiến Căn hộ 15R09, TN HH báo LĐ&XH, phường Yên Hòa, Quận Cầu Giấy, Hà Nội.",
+          "metadata": {
+            "source": "Địa chỉ liên hệ (ghi rõ, đầy đủ để liên hệ được qua Bưu điện):\nĐỗ Văn Chiến Căn hộ 15R09, TN HH báo LĐ&XH, phường Yên Hòa, Quận Cầu Giấy, Hà Nội."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "điện thoại nhà riêng",
+          "object": "0982851506",
+          "metadata": {
+            "source": "Điện thoại nhà riêng: 0982851506"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "điện thoại di động",
+          "object": "0982851506",
+          "metadata": {
+            "source": "Điện thoại di động: 0982851506"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "email",
+          "object": "dovanchien108.cmh@gmail.com",
+          "metadata": {
+            "source": "E-mail:\ndovanchien108.cmh@gmail.com"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "email",
+          "object": "vmechiendo@yahoo.com",
+          "metadata": {
+            "source": "E-mail: hoặc vmechiendo@yahoo.com"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "email",
+          "object": "vmechiendo@gmail.com",
+          "metadata": {
+            "source": "E-mail: hoặc vmechiendo@gmail.com"
+          }
+        }
+      ]
+    },
+    {
+      "main_subject": "Đỗ Văn Chiến",
+      "triples": [
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "học đại học tại",
+          "object": "Trường Đại Học Y Hà Nội",
+          "metadata": {
+            "source": "Từ tháng 9/1998 đến tháng 9/1999: Học đại học tại Trường Đại Học Y Hà Nội, ngành học:\nBác sĩ đa khoa, hệ chính quy."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "học ngành",
+          "object": "Bác sĩ đa khoa",
+          "metadata": {
+            "source": "Từ tháng 9/1998 đến tháng 9/1999: Học đại học tại Trường Đại Học Y Hà Nội, ngành học:\nBác sĩ đa khoa, hệ chính quy."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "học đại học tại",
+          "object": "Trường Đại học Y quốc gia Rostov-on-Don",
+          "metadata": {
+            "source": "- Từ tháng 9/1999 đến tháng 6/2000: Học dự bị tiếng Nga tại Trường Đại học Y quốc gia\nRostov-on-Don, TP Rostov, LB Nga."
+          }
+        },
+        {
+          "subject": "Trường Đại học Y quốc gia Rostov-on-Don",
+          "predicate": "tọa lạc ở",
+          "object": "TP Rostov, LB Nga",
+          "metadata": {
+            "source": "- Từ tháng 9/1999 đến tháng 6/2000: Học dự bị tiếng Nga tại Trường Đại học Y quốc gia\nRostov-on-Don, TP Rostov, LB Nga."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "học đại học tại",
+          "object": "Y quốc gia Volgograd",
+          "metadata": {
+            "source": "- Từ tháng 9/2000 đến tháng 6/2006: Học đại học Y quốc gia Volgograd, TP Volgograd, LB\nNga, nghành học: bác sỹ đa khoa, hệ chính quy."
+          }
+        },
+        {
+          "subject": "Y quốc gia Volgograd",
+          "predicate": "tọa lạc ở",
+          "object": "TP Volgograd, LB Nga",
+          "metadata": {
+            "source": "- Từ tháng 9/2000 đến tháng 6/2006: Học đại học Y quốc gia Volgograd, TP Volgograd, LB\nNga, nghành học: bác sỹ đa khoa, hệ chính quy."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "học ngành",
+          "object": "bác sỹ đa khoa",
+          "metadata": {
+            "source": "- Từ tháng 9/2000 đến tháng 6/2006: Học đại học Y quốc gia Volgograd, TP Volgograd, LB\nNga, nghành học: bác sỹ đa khoa, hệ chính quy."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ",
+          "metadata": {
+            "source": "- Từ tháng 9/2006 đến tháng 5/2008: Bác sĩ khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện\nTƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "khoa Nội Tim mạch",
+          "metadata": {
+            "source": "- Từ tháng 9/2006 đến tháng 5/2008: Bác sĩ khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện\nTƯQĐ 108."
+          }
+        },
+        {
+          "subject": "khoa Nội Tim mạch",
+          "predicate": "thuộc",
+          "object": "Viện Tim Mạch",
+          "metadata": {
+            "source": "- Từ tháng 9/2006 đến tháng 5/2008: Bác sĩ khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện\nTƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Viện Tim Mạch",
+          "predicate": "thuộc",
+          "object": "Bệnh Viện TƯQĐ 108",
+          "metadata": {
+            "source": "- Từ tháng 9/2006 đến tháng 5/2008: Bác sĩ khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện\nTƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ",
+          "metadata": {
+            "source": "- Từ tháng 6/2008 đến tháng 5/2009: Bác sĩ Bệnh xá Đảo Song Tử Tây, Đảo Song Tử Tây,\nQuần đảo Trường Sa, Khánh Hòa."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "Bệnh xá Đảo Song Tử Tây",
+          "metadata": {
+            "source": "- Từ tháng 6/2008 đến tháng 5/2009: Bác sĩ Bệnh xá Đảo Song Tử Tây, Đảo Song Tử Tây,\nQuần đảo Trường Sa, Khánh Hòa."
+          }
+        },
+        {
+          "subject": "Bệnh xá Đảo Song Tử Tây",
+          "predicate": "tọa lạc ở",
+          "object": "Đảo Song Tử Tây, Quần đảo Trường Sa, Khánh Hòa",
+          "metadata": {
+            "source": "- Từ tháng 6/2008 đến tháng 5/2009: Bác sĩ Bệnh xá Đảo Song Tử Tây, Đảo Song Tử Tây,\nQuần đảo Trường Sa, Khánh Hòa."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ",
+          "metadata": {
+            "source": "- Từ tháng 6/2009 đến tháng 5/2014: Bác sĩ khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện\nTƯQĐ 108 (Trong giai đoạn này: Từ tháng 6/2011 đến tháng 10/2011: Thực tập sinh Tim mạch tại Trường Đại học Y Sydney, Úc. Từ tháng 9/2013 đến tháng 7/2018: Nghiên cứu sinh tại Viện nghiên cứu khoa học y dược lâm sàng 108 thuộc Bệnh Viện TƯQĐ 108)."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "khoa Nội Tim mạch",
+          "metadata": {
+            "source": "- Từ tháng 6/2009 đến tháng 5/2014: Bác sĩ khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện\nTƯQĐ 108 (Trong giai đoạn này: Từ tháng 6/2011 đến tháng 10/2011: Thực tập sinh Tim mạch tại Trường Đại học Y Sydney, Úc. Từ tháng 9/2013 đến tháng 7/2018: Nghiên cứu sinh tại Viện nghiên cứu khoa học y dược lâm sàng 108 thuộc Bệnh Viện TƯQĐ 108)."
+          }
+        },
+        {
+          "subject": "khoa Nội Tim mạch",
+          "predicate": "thuộc",
+          "object": "Viện Tim Mạch",
+          "metadata": {
+            "source": "- Từ tháng 6/2009 đến tháng 5/2014: Bác sĩ khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện\nTƯQĐ 108 (Trong giai đoạn này: Từ tháng 6/2011 đến tháng 10/2011: Thực tập sinh Tim mạch tại Trường Đại học Y Sydney, Úc. Từ tháng 9/2013 đến tháng 7/2018: Nghiên cứu sinh tại Viện nghiên cứu khoa học y dược lâm sàng 108 thuộc Bệnh Viện TƯQĐ 108)."
+          }
+        },
+        {
+          "subject": "Viện Tim Mạch",
+          "predicate": "thuộc",
+          "object": "Bệnh Viện TƯQĐ 108",
+          "metadata": {
+            "source": "- Từ tháng 6/2009 đến tháng 5/2014: Bác sĩ khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện\nTƯQĐ 108 (Trong giai đoạn này: Từ tháng 6/2011 đến tháng 10/2011: Thực tập sinh Tim mạch tại Trường Đại học Y Sydney, Úc. Từ tháng 9/2013 đến tháng 7/2018: Nghiên cứu sinh tại Viện nghiên cứu khoa học y dược lâm sàng 108 thuộc Bệnh Viện TƯQĐ 108)."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thực tập vị trí",
+          "object": "Thực tập sinh Tim mạch",
+          "metadata": {
+            "source": "Từ tháng 6/2011 đến tháng 10/2011: Thực tập sinh Tim mạch tại Trường Đại học Y Sydney, Úc."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thực tập tại",
+          "object": "Trường Đại học Y Sydney",
+          "metadata": {
+            "source": "Từ tháng 6/2011 đến tháng 10/2011: Thực tập sinh Tim mạch tại Trường Đại học Y Sydney, Úc."
+          }
+        },
+        {
+          "subject": "Trường Đại học Y Sydney",
+          "predicate": "tọa lạc ở",
+          "object": "Úc",
+          "metadata": {
+            "source": "Từ tháng 6/2011 đến tháng 10/2011: Thực tập sinh Tim mạch tại Trường Đại học Y Sydney, Úc."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "nghiên cứu vị trí",
+          "object": "Nghiên cứu sinh",
+          "metadata": {
+            "source": "Từ tháng 9/2013 đến tháng 7/2018: Nghiên cứu sinh tại Viện nghiên cứu khoa học y dược lâm sàng 108 thuộc Bệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "nghiên cứu tại",
+          "object": "Viện nghiên cứu khoa học y dược lâm sàng 108",
+          "metadata": {
+            "source": "Từ tháng 9/2013 đến tháng 7/2018: Nghiên cứu sinh tại Viện nghiên cứu khoa học y dược lâm sàng 108 thuộc Bệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Viện nghiên cứu khoa học y dược lâm sàng 108",
+          "predicate": "thuộc",
+          "object": "Bệnh Viện TƯQĐ 108",
+          "metadata": {
+            "source": "Từ tháng 9/2013 đến tháng 7/2018: Nghiên cứu sinh tại Viện nghiên cứu khoa học y dược lâm sàng 108 thuộc Bệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thực tập vị trí",
+          "object": "Thực tập sinh Tim mạch can thiệp",
+          "metadata": {
+            "source": "- Từ tháng 7/2014 đến tháng 6/2015: Thực tập sinh Tim mạch can thiệp, Viện Tim Mạch quốc\ngia Singapore, Singapore."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thực tập tại",
+          "object": "Viện Tim Mạch quốc gia Singapore",
+          "metadata": {
+            "source": "- Từ tháng 7/2014 đến tháng 6/2015: Thực tập sinh Tim mạch can thiệp, Viện Tim Mạch quốc\ngia Singapore, Singapore."
+          }
+        },
+        {
+          "subject": "Viện Tim Mạch quốc gia Singapore",
+          "predicate": "tọa lạc ở",
+          "object": "Singapore",
+          "metadata": {
+            "source": "- Từ tháng 7/2014 đến tháng 6/2015: Thực tập sinh Tim mạch can thiệp, Viện Tim Mạch quốc\ngia Singapore, Singapore."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác vị trí",
+          "object": "Bác sĩ điều trị",
+          "metadata": {
+            "source": "- Từ tháng 7/2015 đến tháng 5/2022: Bác sĩ điều trị và từ tháng 5/2019 đến tháng 5/2022 là phó\nchủ nhiệm khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "Viện Tim Mạch",
+          "metadata": {
+            "source": "- Từ tháng 7/2015 đến tháng 5/2022: Bác sĩ điều trị và từ tháng 5/2019 đến tháng 5/2022 là phó\nchủ nhiệm khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "giữ chức vụ",
+          "object": "phó chủ nhiệm khoa Nội Tim mạch",
+          "metadata": {
+            "source": "- Từ tháng 7/2015 đến tháng 5/2022: Bác sĩ điều trị và từ tháng 5/2019 đến tháng 5/2022 là phó\nchủ nhiệm khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "Bệnh Viện TƯQĐ 108",
+          "metadata": {
+            "source": "- Từ tháng 7/2015 đến tháng 5/2022: Bác sĩ điều trị và từ tháng 5/2019 đến tháng 5/2022 là phó\nchủ nhiệm khoa Nội Tim mạch, Viện Tim Mạch, Bệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "giữ chức vụ",
+          "object": "Phó chủ nhiệm khoa Hồi sức Tim mạch",
+          "metadata": {
+            "source": "- Từ tháng 5/2022 đến nay: Phó chủ nhiệm khoa Hồi sức Tim mạch, Viện Tim Mạch,\nBệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "Viện Tim Mạch",
+          "metadata": {
+            "source": "- Từ tháng 5/2022 đến nay: Phó chủ nhiệm khoa Hồi sức Tim mạch, Viện Tim Mạch,\nBệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "Bệnh Viện TƯQĐ 108",
+          "metadata": {
+            "source": "- Từ tháng 5/2022 đến nay: Phó chủ nhiệm khoa Hồi sức Tim mạch, Viện Tim Mạch,\nBệnh Viện TƯQĐ 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "giữ chức vụ",
+          "object": "Phó chủ nhiệm khoa Hồi sức Tim mạch",
+          "metadata": {
+            "source": "- Chức vụ hiện nay: Phó chủ nhiệm khoa Hồi sức Tim mạch, Bệnh viện TƯQĐ 108. Giáo vụ\nBộ môn Nội Tim mạch, Viện nghiên cứu khoa học y dược lâm sàng 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "Bệnh viện TƯQĐ 108",
+          "metadata": {
+            "source": "- Chức vụ hiện nay: Phó chủ nhiệm khoa Hồi sức Tim mạch, Bệnh viện TƯQĐ 108. Giáo vụ\nBộ môn Nội Tim mạch, Viện nghiên cứu khoa học y dược lâm sàng 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "giữ chức vụ",
+          "object": "Giáo vụ",
+          "metadata": {
+            "source": "- Chức vụ hiện nay: Phó chủ nhiệm khoa Hồi sức Tim mạch, Bệnh viện TƯQĐ 108. Giáo vụ\nBộ môn Nội Tim mạch, Viện nghiên cứu khoa học y dược lâm sàng 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "công tác tại",
+          "object": "Viện nghiên cứu khoa học y dược lâm sàng 108",
+          "metadata": {
+            "source": "- Chức vụ hiện nay: Phó chủ nhiệm khoa Hồi sức Tim mạch, Bệnh viện TƯQĐ 108. Giáo vụ\nBộ môn Nội Tim mạch, Viện nghiên cứu khoa học y dược lâm sàng 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "cơ quan công tác hiện nay",
+          "object": "Bệnh viện Trung ương Quân đội 108",
+          "metadata": {
+            "source": "- Cơ quan công tác hiện nay: Bệnh viện Trung ương Quân đội 108."
+          }
+        },
+        {
+          "subject": "Bệnh viện Trung ương Quân đội 108",
+          "predicate": "có địa chỉ",
+          "object": "Số 1 Đường Trần Hưng Đạo, Quận Hai Bà Trưng, Hà Nội",
+          "metadata": {
+            "source": "- Địa chỉ cơ quan: Số 1 Đường Trần Hưng Đạo, Quận Hai Bà Trưng, Hà Nội"
+          }
+        },
+        {
+          "subject": "Bệnh viện Trung ương Quân đội 108",
+          "predicate": "có số điện thoại",
+          "object": "0971.830.166",
+          "metadata": {
+            "source": "- Điện thoại cơ quan: 0971.830.166"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thỉnh giảng tại",
+          "object": "Viện NCKH y dược lâm sàng 108",
+          "metadata": {
+            "source": "- Thỉnh giảng tại cơ sở giáo dục đại học (nếu có): Viện NCKH y dược lâm sàng 108, Trường\nĐại học kĩ thuật Y tế Hải Dương, Học viện Quân Y, Trường Đại học Y Hà Nội và Trường Đại học Vinuniversity."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thỉnh giảng tại",
+          "object": "Trường Đại học kĩ thuật Y tế Hải Dương",
+          "metadata": {
+            "source": "- Thỉnh giảng tại cơ sở giáo dục đại học (nếu có): Viện NCKH y dược lâm sàng 108, Trường\nĐại học kĩ thuật Y tế Hải Dương, Học viện Quân Y, Trường Đại học Y Hà Nội và Trường Đại học Vinuniversity."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thỉnh giảng tại",
+          "object": "Học viện Quân Y",
+          "metadata": {
+            "source": "- Thỉnh giảng tại cơ sở giáo dục đại học (nếu có): Viện NCKH y dược lâm sàng 108, Trường\nĐại học kĩ thuật Y tế Hải Dương, Học viện Quân Y, Trường Đại học Y Hà Nội và Trường Đại học Vinuniversity."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thỉnh giảng tại",
+          "object": "Trường Đại học Y Hà Nội",
+          "metadata": {
+            "source": "- Thỉnh giảng tại cơ sở giáo dục đại học (nếu có): Viện NCKH y dược lâm sàng 108, Trường\nĐại học kĩ thuật Y tế Hải Dương, Học viện Quân Y, Trường Đại học Y Hà Nội và Trường Đại học Vinuniversity."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "thỉnh giảng tại",
+          "object": "Trường Đại học Vinuniversity",
+          "metadata": {
+            "source": "- Thỉnh giảng tại cơ sở giáo dục đại học (nếu có): Viện NCKH y dược lâm sàng 108, Trường\nĐại học kĩ thuật Y tế Hải Dương, Học viện Quân Y, Trường Đại học Y Hà Nội và Trường Đại học Vinuniversity."
+          }
+        }
+      ]
+    },
+    {
+      "main_subject": "Đỗ Văn Chiến",
+      "triples": [
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "được cấp",
+          "object": "bằng Đại học Y khoa quốc gia Volgograd",
+          "metadata": {
+            "source": "- Được cấp bằng Đại học Y khoa quốc gia Volgograd (LB Nga) ngày 22 tháng 6 năm 2006."
+          }
+        },
+        {
+          "subject": "bằng Đại học Y khoa quốc gia Volgograd",
+          "predicate": "có số hiệu",
+          "object": "DIS 0012833",
+          "metadata": {
+            "source": "số hiệu bằng: DIS 0012833"
+          }
+        },
+        {
+          "subject": "bằng Đại học Y khoa quốc gia Volgograd",
+          "predicate": "ngành",
+          "object": "Y",
+          "metadata": {
+            "source": "ngành: Y"
+          }
+        },
+        {
+          "subject": "bằng Đại học Y khoa quốc gia Volgograd",
+          "predicate": "chuyên ngành",
+          "object": "Bác sĩ Đa khoa",
+          "metadata": {
+            "source": "chuyên ngành: Bác sĩ Đa khoa"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "được cấp",
+          "object": "bằng Tiến Sĩ",
+          "metadata": {
+            "source": "- Được cấp bằng Tiến Sĩ ngày 1 tháng 11 năm 2018"
+          }
+        },
+        {
+          "subject": "bằng Tiến Sĩ",
+          "predicate": "có số hiệu",
+          "object": "000003",
+          "metadata": {
+            "source": "số hiệu bằng: 000003"
+          }
+        },
+        {
+          "subject": "bằng Tiến Sĩ",
+          "predicate": "ngành",
+          "object": "Y học",
+          "metadata": {
+            "source": "ngành: Y học"
+          }
+        },
+        {
+          "subject": "bằng Tiến Sĩ",
+          "predicate": "chuyên ngành",
+          "object": "Nội Tim Mạch",
+          "metadata": {
+            "source": "chuyên ngành: Nội Tim Mạch"
+          }
+        },
+        {
+          "subject": "Viện nghiên cứu khoa học y dược lâm sàng 108",
+          "predicate": "tọa lạc ở",
+          "object": "Viện nghiên\ncứu khoa học y dược lâm sàng 108",
+          "metadata": {
+            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS cơ sở: Viện nghiên\ncứu khoa học y dược lâm sàng 108."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS ngành, liên ngành",
+          "object": "Y học",
+          "metadata": {
+            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS ngành, liên ngành: Y học"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Hình thái và chức năng của nhĩ trái trong một số bệnh lý tim mạch",
+          "metadata": {
+            "source": "- Hướng NC 1: Hình thái và chức năng của nhĩ trái trong một số bệnh lý tim mạch."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Suy tim và một số bệnh lý liên quan đến suy tim",
+          "metadata": {
+            "source": "- Hướng NC 2: Suy tim và một số bệnh lý liên quan đến suy tim"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "chủ yếu nghiên cứu",
+          "object": "Rối loạn chuyển hóa (béo phì, đái tháo đường, tăng huyết áp, rối\nloạn chuyển hoá lipid) và một số bệnh lý mạch máu (động mạch vành, động - tĩnh mạch chi dưới)",
+          "metadata": {
+            "source": "- Hướng NC 3: Rối loạn chuyển hóa (béo phì, đái tháo đường, tăng huyết áp, rối\nloạn chuyển hoá lipid) và một số bệnh lý mạch máu (động mạch vành, động - tĩnh mạch chi dưới)."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đã hướng dẫn bảo vệ thành công luận văn",
+          "object": "05 luận văn ThS",
+          "metadata": {
+            "source": "- Đã hướng dẫn: 05 HVCH bảo vệ thành công luận văn ThS"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đã hướng dẫn bảo vệ thành công luận văn",
+          "object": "01 luận văn BSCK cấp 2",
+          "metadata": {
+            "source": "- Đã hướng dẫn:  và 01 học viên chuyên khoa 2\nbảo vệ thành công luận văn BSCK cấp 2."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
+          "object": "02 đề tài cấp cơ sở",
+          "metadata": {
+            "source": "- Đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên: 02 đề tài cấp cơ sở;"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đã công bố",
+          "object": "55 bài báo khoa học",
+          "metadata": {
+            "source": "- Đã công bố 55 bài báo khoa học, trong đó 11 bài báo khoa học trên tạp chí quốc tế uy tín"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đã công bố",
+          "object": "11 bài báo khoa học trên tạp chí quốc tế uy tín",
+          "metadata": {
+            "source": "- Đã công bố 55 bài báo khoa học, trong đó 11 bài báo khoa học trên tạp chí quốc tế uy tín"
+          }
+        },
+        {
+          "subject": "10 bài báo quốc tế uy tín",
+          "predicate": "là tác giả chính của",
+          "object": "Đỗ Văn Chiến",
+          "metadata": {
+            "source": "(10 bài báo quốc tế uy tín là tác giả chính)."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đã xuất bản",
+          "object": "02 sách chuyên khảo",
+          "metadata": {
+            "source": "- Số lượng sách đã xuất bản sách phục vụ đào tạo, đều thuộc nhà xuất bản có uy tín: 02 sách\nchuyên khảo (NXB Y học)."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đạt giải thưởng quốc gia quốc tế",
+          "object": "Giải nhất nhà nghiên cứu trẻ của Hội Tim mạch Việt Nam năm 2016",
+          "metadata": {
+            "source": "- Giải nhất nhà nghiên cứu trẻ của Hội Tim mạch Việt Nam năm 2016."
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đạt giải thưởng quốc gia quốc tế",
+          "object": "Giải nhì nhà nghiên cứu trẻ của Liên đoàn Tim mạch Đông Nam Á năm 2017",
+          "metadata": {
+            "source": "- Giải nhì nhà nghiên cứu trẻ của Liên đoàn Tim mạch Đông Nam Á năm 2017"
+          }
+        },
+        {
+          "subject": "Đỗ Văn Chiến",
+          "predicate": "đạt giải thưởng quốc gia quốc tế",
+          "object": "Giải nhất Sáng tạo tuổi trẻ trong quân đội năm 2018",
+          "metadata": {
+            "source": "- Giải nhất Sáng tạo tuổi trẻ trong quân đội năm 2018."
+          }
+        }
+      ]
+    }
+  ]
+}

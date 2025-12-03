@@ -1,5 +1,7 @@
 """Chunking strategy to divide text file into main topics."""
 
+from typing import Dict
+
 def extract_specific_sections(
     text: str,
     start_keyword: str,
@@ -8,7 +10,7 @@ def extract_specific_sections(
     """Extract paragraph start with start_keyword and end before end_keyword"""
     section: dict[str, str] = {}
     lines = text.split("\n")
-    
+    section: Dict[str, any] = {}
     i = 0
     while i < len(lines):
         line = lines[i]
