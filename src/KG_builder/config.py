@@ -82,40 +82,70 @@ SECTION_PREDICATES_2 = {
 
 TABLE_PREDICATES = {
     "Types" : [
-        "đã công bố", "có số tác giả", "là tác giả chính của", "được đăng trên tạp chí", "xếp hạng tạp chí", 
+        "đã công bố bài báo", "có số tác giả", "là tác giả chính của", "là đồng tác giả của", "được đăng trên tạp chí", "xếp hạng tạp chí", 
         "số lần trích dẫn", "chi tiết xuất bản", "xuất bảo vào ngày", "giữ vai trò", "mã số", "cấp quản lý",
         "thực hiện trong giai đoạn", "nghiệm thu vào", "đạt xếp loại", "loại hình", "nhà xuất bản", "xuất bản năm",
         "là chủ biên", "đóng góp trang", "văn bản xác nhận", "được cấp bởi", "được cấp ngày", "văn bản giao nhiệm vụ",
-        "được cấp phép bởi", "văn bản ứng dụng", "ghi chú"
-    ],
-    "Definitions": [
-        "Indicates the quantity of scientific works released by the subject (Has published).",
-        "Specifies the total count of authors/contributors for a work (Has number of authors).",
-        "Indicates the subject's primary authorship role for a publication (Is main author of).",
-        "Specifies the journal/proceeding where the work was published (Published in journal).",
-        "Specifies the prestige or ranking index of the journal (Journal ranking).",
-        "Specifies the total number of times the work has been referenced by others (Citation count).",
-        "Provides the full publication reference details (Volume, Issue, Pages) (Publication details).",
-        "Specifies the date (month and year) the work was officially published (Published on date).",
-        "Specifies the subject's formal function or position within a project or program (Holds the role of).",
-        "Provides the official identification code of a project or document (Official code).",
-        "Specifies the administrative level of the body managing the project (Management level).",
-        "Specifies the full duration of a project's execution (Implemented during period).",
-        "Specifies the date of the project's final acceptance or evaluation (Accepted on).",
-        "Specifies the final evaluation or rating result of a project (Achieved rating).",
-        "Specifies the classification category of a book (e.g., Textbook, Monograph) (Book type).",
-        "Specifies the name of the entity that printed and distributed the book (Publisher).",
-        "Specifies the year the book was published (Published year).",
-        "Indicates the subject's role as the primary editor/coordinator for a book (Is editor-in-chief).",
-        "Specifies the page range or section contributed by the subject in a book (Contributed pages).",
-        "Provides the ID or reference number of the official verification document (Verification document ID).",
-        "Specifies the entity or authority that issued a document or certificate (Issued by).",
-        "Specifies the exact date a document or certificate was officially granted (Issued on date).",
-        "Provides the ID of the official document assigning a task or program (Assignment document ID).",
-        "Specifies the authority that evaluated and authorized a program for use (Authorized by).",
-        "Provides the ID of the official document confirming practical application (Implementation document ID).",
-        "Provides any additional notes or comments related to the item (Notes)."
+        "được cấp phép bởi", "văn bản ứng dụng", "ghi chú", "đã sáng chế", "đã nghiệm thu nhiệm vụ khoa học", "đã đạt thành tích, có tác phẩm",
+        "phát triển chương trình", "đã xuất bản"
     ]
+}
+
+PAPERS_PREDICATES_MAPPER = {
+    "title": "đã công bố bài báo",
+    "num_authors": "có số tác giả",
+    "is_main_author": {"false": "đồng tác giả của", "true": "là tác giả chính của"},
+    "journal_name_ISSN": "được đăng trên tạp chí",
+    "journal_ranking": "xếp hạng tạp chí",
+    "citation_count": "số lần trích dẫn",
+    "volume_issue_pages": "chi tiết xuất bản",
+    "published_date": "xuất bảo vào ngày"
+}
+
+PROJECTS_PREDICATES_MAPPER = {
+    "title": "đã nghiệm thu nhiệm vụ khoa học",
+    "role": "giữ vai trò",
+    "project_code": "mã số",
+    "management_level": "cấp quản lý",
+    "period": "thực hiện trong giai đoạn",
+    "acceptance_date": "nghiệm thu vào",
+    "rating": "đạt xếp loại"
+}
+
+BOOKS_PREDICATES_MAPPER = {
+    "title": "đã xuất bản",
+    "type": "loại hình",
+    "publisher": "nhà xuất bản",
+    "publish_year": "xuất bản năm",
+    "num_authors": "có số tác giả",
+    "is_editor_in_chief": {"false": "thành viên biên soạn của", "true": "chủ biên"},
+    "compiled_pages": "biên soạn trang",
+    "verification_document_id": "văn bản xác nhận"
+}
+
+PATENTS_PREDICATES_MAPPER = {
+    "title": "đã sáng chế",
+    "issuing_authority": "được cấp bởi",
+    "issue_date": "được cấp ngày",
+    "is_main_inventor": {"false": "đồng tác giả của", "true": "là tác giả chính của"},
+    "num_inventors": "có số tác giả"
+}
+
+ACHIEVEMENTS_PREDICATES_MAPPER = {
+    "title": "đã đạt thành tích, có tác phẩm",
+    "certifying_organization": "được công nhận bởi",
+    "certificate_document_id": "có văn bản công nhận",
+    "award": "đạt giải thưởng",
+    "num_contributors": "có tổng số thành viên"
+}
+
+TRAINING_PROGRAMS_PREDICATES_MAPPER = {
+    "title": "phát triển chương trình",
+    "applicant_role": "giữ vai trò",
+    "assignment_document_id": "văn bản giao nhiệm vụ",
+    "certifying_authority": "được cấp phép bởi",
+    "implementation_document_id": "văn bản ứng dụng",
+    "notes": "ghi chú"
 }
 
 SECTIONS_DEFINITION = [
@@ -123,21 +153,21 @@ SECTIONS_DEFINITION = [
         "context": EXTRACT_TRIPLE_USER_PROMPT,
         "system_instruction": EXTRACT_TRIPLE_PERSONAL_INFO_PROMPT,
         "start_word": "THÔNG TIN CÁ NHÂN",
-        "end_word": "7. Quá trình công tác",
+        "end_word": "Quá trình công tác",
         "predicates": SECTION_PREDICATES_1
     },
     {
         "context": EXTRACT_TRIPLE_USER_PROMPT,
         "system_instruction": EXTRACT_TRIPLE_WORKING_INFO_PROMPT,
-        "start_word": "7. Quá trình công tác",
-        "end_word": "9. Trình độ đào tạo",
+        "start_word": "Quá trình công tác",
+        "end_word": "Trình độ đào tạo",
         "predicates": SECTION_PREDICATES_2
     },
     {
         "context": EXTRACT_TRIPLE_USER_PROMPT,
         "system_instruction": EXTRACT_TRIPLE_WORKING_INFO_PROMPT,
-        "start_word": "9. Trình độ đào tạo",
-        "end_word": "B. TỰ KHAI THEO",
+        "start_word": "Trình độ đào tạo",
+        "end_word": "TỰ KHAI THEO",
         "predicates": SECTION_PREDICATES_2
     }
 ]

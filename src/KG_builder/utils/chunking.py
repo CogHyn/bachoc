@@ -8,6 +8,7 @@ def extract_specific_sections(
     end_keyword: str
 ) -> dict[str, any]:
     """Extract paragraph start with start_keyword and end before end_keyword"""
+    section: dict[str, str] = {}
     lines = text.split("\n")
     section: Dict[str, any] = {}
     i = 0

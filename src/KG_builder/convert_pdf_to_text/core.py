@@ -261,8 +261,3 @@ __all__ = [
     "has_structured_extractor",
     "get_pdf_pages",
 ]
-
-context = extract_context_from_pdf(
-    "D:/fico/DỰ_ÁN/pdf_data/(16843789737439_28_06_2024_09_15)hoang-duong-viet-anh-1984-01-12-1719540941.pdf"
-)
-print(context)

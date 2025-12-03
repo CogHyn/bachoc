@@ -4,14 +4,19 @@ import pathlib
 import json
 from google.genai import types
 from KG_builder.prompts.prompts import (
-    EXTRACT_TABLE_PAPER_INFO,
-    EXTRACT_TRIPLE_FROM_PAPER_PROMPT,
-    EXTRACT_TRIPLE_FROM_PAPER_USER_PROMPT
+    EXTRACT_TABLE_PAPER_INFO
 )
 from KG_builder.llm.cost.cost_model import GeminiModel
+from KG_builder.config import (
+    PAPERS_PREDICATES_MAPPER,
+    PATENTS_PREDICATES_MAPPER,
+    PROJECTS_PREDICATES_MAPPER,
+    BOOKS_PREDICATES_MAPPER,
+    ACHIEVEMENTS_PREDICATES_MAPPER,
+    TRAINING_PROGRAMS_PREDICATES_MAPPER
+)
+
 from KG_builder.utils.llm_utils import load_model
-from KG_builder.extract.extract_triples import extract_triples
-from KG_builder.triple_models import TripleList
 
 class Paper(BaseModel):
     """Represents a row in Paper/Article table"""
@@ -223,3 +228,187 @@ def extract_table_from_pdf(pdf_path: str, genai: GeminiModel):
 # parsed = json.loads(table_data)  # chuyển sang dict
 # with open('table_data_1.json', 'w', encoding='utf-8') as f:
 #     json.dump(parsed, f, ensure_ascii=False, indent=4)
+
+def extract_triples_from_table(table_data_path: str, main_subject: str):
+    with open(table_data_path, "r", encoding='utf-8') as f:
+        text = f.read()
+    table_data = json.loads(text)
+    
+    triples = []
+    
+    for k, v in table_data.items():
+        if not v:
+            continue
+        if k == "papers":
+            triples.extend(extract_paper_triples(v, main_subject))
+        if k == "projects":
+            triples.extend(extract_project_triples(v, main_subject))
+        if k == "books":
+            triples.extend(extract_book_triples(v, main_subject))
+        if k == "patents":
+            triples.extend(extract_patent_triples(v, main_subject))
+        if k == "achievements":
+            triples.extend(extract_achievement_triples(v, main_subject))
+        if k == "training_programs":
+            triples.extend(extract_training_program_triples(v, main_subject))
+    
+    return triples
+
+
+def extract_paper_triples(papers_data: list[dict[str, any]], main_subject: str) -> list[dict[str, str]]:
+    triples: list[dict[str, str]] = []
+    
+    for paper in papers_data:
+        
+        paper_title = paper.get("title", "")
+        
+        for k, v in paper.items():
+            subject = paper_title
+            object_value = v
+            predicate = PAPERS_PREDICATES_MAPPER.get(k)
+            
+            if k in ["title", "is_main_author"]:
+                subject = main_subject
+                object_value = paper_title
+                
+                if k == "is_main_author":
+                    is_main_author_status = "true" if v else "false"
+
+                    predicate = PAPERS_PREDICATES_MAPPER[k].get(is_main_author_status)
+                
+            triples.append({
+                "subject": str(subject),
+                "predicate": predicate,
+                "object": str(object_value)
+            })
+            
+    return triples
+
+
+def extract_project_triples(projects_data: list[dict[str, any]], main_subject: str) -> list[dict[str, str]]:
+    triples: list[dict[str, str]] = []
+    
+    for project in projects_data:
+        project_title = project.get("title", "")
+        
+        for k, v in project.items():
+            subject = project_title
+            predicate = PROJECTS_PREDICATES_MAPPER.get(k)
+            object_value = v
+            
+            if k in ["title", "role"]:
+                subject = main_subject
+                object_value = project_title
+                
+            triples.append({
+                "subject": subject,
+                "predicate": predicate,
+                "object": object_value
+            })
+            
+    return triples
+
+
+def extract_book_triples(books_data: list[dict[str, any]], main_subject: str) -> list[dict[str, str]]:
+    triples: list[dict[str, str]] = []
+    
+    for book in books_data:
+        book_title = book.get("title", "")
+        
+        for k, v in book.items():
+            subject = book_title
+            object_value = v
+            predicate = BOOKS_PREDICATES_MAPPER.get(k)
+            
+            if k in ["title", "is_editor_in_chief"]:
+                subject = main_subject
+                object_value = book_title
+                
+                if k == "is_editor_in_chief":
+                    is_editor_in_chief_status = "true" if v else "false"
+
+                    predicate = BOOKS_PREDICATES_MAPPER[k].get(is_editor_in_chief_status)
+                
+            triples.append({
+                "subject": str(subject),
+                "predicate": predicate,
+                "object": str(object_value)
+            })
+            
+    return triples
+
+
+def extract_patent_triples(patents_data: list[dict[str, any]], main_subject: str) -> list[dict[str, str]]:
+    triples: list[dict[str, str]] = []
+    
+    for patent in patents_data:
+        patent_title = patent.get("title", "")
+        
+        for k, v in patent.items():
+            subject = patent_title
+            object_value = v
+            predicate = PATENTS_PREDICATES_MAPPER.get(k)
+            
+            if k in ["title", "is_main_inventor"]:
+                subject = main_subject
+                object_value = patent_title
+                
+                if k == "is_main_inventor":
+                    is_main_inventor_status = "true" if v else "false"
+
+                    predicate = PATENTS_PREDICATES_MAPPER[k].get(is_main_inventor_status)
+                
+            triples.append({
+                "subject": str(subject),
+                "predicate": predicate,
+                "object": str(object_value)
+            })
+            
+    return triples
+
+
+def extract_achievement_triples(achievements_data: list[dict[str, any]], main_subject: str) -> list[dict[str, str]]:
+    triples: list[dict[str, str]] = []
+    
+    for achievement in achievements_data:
+        achievement_title = achievement.get("title", "")
+        
+        for k, v in achievement.items():
+            subject = achievement_title
+            object_value = v
+            predicate = ACHIEVEMENTS_PREDICATES_MAPPER.get(k)
+            
+            if k == "title":
+                subject = main_subject
+                object_value = achievement_title
+                
+            triples.append({
+                "subject": str(subject),
+                "predicate": predicate,
+                "object": str(object_value)
+            })
+            
+    return triples
+
+
+def extract_training_program_triples(training_programs_data: list[dict[str, any]], main_subject: str) -> list[dict[str, str]]:
+    triples: list[dict[str, str]] = []
+    
+    for program in training_programs_data:
+        program_title = program.get("title", "")
+        
+        for k, v in program.items():
+            subject = program_title
+            object_value = v
+            predicate = TRAINING_PROGRAMS_PREDICATES_MAPPER.get(k)
+            
+            if k in ["title"]:
+                subject = main_subject
+                
+            triples.append({
+                "subject": str(subject),
+                "predicate": predicate,
+                "object": str(object_value)
+            })
+            
+    return triples
