@@ -43,6 +43,18 @@ def _reformat_messages(messages: list):
     return system_instruction, contexts
 
 
+def _message_type(messages: list):
+    if any(isinstance(item, types.Part) for item in messages):
+        return "file"
+    
+    # chat message
+    if isinstance(messages, list) and len(messages) > 0:
+        if isinstance(messages[0], dict) and "role" in messages[0]:
+            return "chat"
+    
+    return "unknown"
+
+
 class GeminiModel(CostModel):
     def __init__(self, **args):
         super().__init__(**args)
@@ -62,14 +74,16 @@ class GeminiModel(CostModel):
         response_format = args.get("response_format")
         
         config_params: dict[str, any] = {}
+        system_instruction = None
         
-        system_instruction, context = _reformat_messages(messages)
+        if _message_type(messages=messages) == "chat":
+            system_instruction, context = _reformat_messages(messages)
+            
+        elif _message_type(messages=messages) == "file":
+            context = messages
             
         if system_instruction:
             config_params["system_instruction"] = system_instruction
-            
-        else: # for pdf file response, if no system instruction in message
-            context = messages
             
         if response_format is not None and response_format["type"] == "json_object":
             config_params["response_mime_type"] = "application/json"

@@ -153,21 +153,21 @@ SECTIONS_DEFINITION = [
         "context": EXTRACT_TRIPLE_USER_PROMPT,
         "system_instruction": EXTRACT_TRIPLE_PERSONAL_INFO_PROMPT,
         "start_word": "THÔNG TIN CÁ NHÂN",
-        "end_word": "7. Quá trình công tác",
+        "end_word": "Quá trình công tác",
         "predicates": SECTION_PREDICATES_1
     },
     {
         "context": EXTRACT_TRIPLE_USER_PROMPT,
         "system_instruction": EXTRACT_TRIPLE_WORKING_INFO_PROMPT,
-        "start_word": "7. Quá trình công tác",
-        "end_word": "9. Trình độ đào tạo",
+        "start_word": "Quá trình công tác",
+        "end_word": "Trình độ đào tạo",
         "predicates": SECTION_PREDICATES_2
     },
     {
         "context": EXTRACT_TRIPLE_USER_PROMPT,
         "system_instruction": EXTRACT_TRIPLE_WORKING_INFO_PROMPT,
-        "start_word": "9. Trình độ đào tạo",
-        "end_word": "B. TỰ KHAI THEO",
+        "start_word": "Trình độ đào tạo",
+        "end_word": "TỰ KHAI THEO",
         "predicates": SECTION_PREDICATES_2
     }
 ]

@@ -16,6 +16,8 @@ from KG_builder.config import (
     TRAINING_PROGRAMS_PREDICATES_MAPPER
 )
 
+from KG_builder.utils.llm_utils import load_model
+
 class Paper(BaseModel):
     """Represents a row in Paper/Article table"""
     title: str = Field(
@@ -227,30 +229,30 @@ def extract_table_from_pdf(pdf_path: str, genai: GeminiModel):
 # with open('table_data_1.json', 'w', encoding='utf-8') as f:
 #     json.dump(parsed, f, ensure_ascii=False, indent=4)
 
-def extract_triples_from_table(json_path: str):
-    with open(json_path, "r", encoding='utf-8') as f:
+def extract_triples_from_table(table_data_path: str, main_subject: str):
+    with open(table_data_path, "r", encoding='utf-8') as f:
         text = f.read()
     table_data = json.loads(text)
     
     triples = []
     
     for k, v in table_data.items():
+        if not v:
+            continue
         if k == "papers":
-            triples.extend(extract_paper_triples(v, "ABC"))
+            triples.extend(extract_paper_triples(v, main_subject))
         if k == "projects":
-            triples.extend(extract_project_triples(v, "ABC"))
+            triples.extend(extract_project_triples(v, main_subject))
         if k == "books":
-            triples.extend(extract_book_triples(v, "ABC"))
+            triples.extend(extract_book_triples(v, main_subject))
         if k == "patents":
-            triples.extend(extract_patent_triples(v, "ABC"))
+            triples.extend(extract_patent_triples(v, main_subject))
         if k == "achievements":
-            if v:
-                triples.extend(extract_achievement_triples(v, "ABC"))
+            triples.extend(extract_achievement_triples(v, main_subject))
         if k == "training_programs":
-            triples.extend(extract_training_program_triples(v, "ABC"))
-            
-    with open("../output/table_triples_1.json", "w", encoding="utf-8") as f:
-        json.dump(triples, f, ensure_ascii=False, indent=2)
+            triples.extend(extract_training_program_triples(v, main_subject))
+    
+    return triples
 
 
 def extract_paper_triples(papers_data: list[dict[str, any]], main_subject: str) -> list[dict[str, str]]:
@@ -400,9 +402,8 @@ def extract_training_program_triples(training_programs_data: list[dict[str, any]
             object_value = v
             predicate = TRAINING_PROGRAMS_PREDICATES_MAPPER.get(k)
             
-            if k in ["title", "applicant_role"]:
+            if k in ["title"]:
                 subject = main_subject
-                object_value = program_title
                 
             triples.append({
                 "subject": str(subject),
@@ -411,7 +412,3 @@ def extract_training_program_triples(training_programs_data: list[dict[str, any]
             })
             
     return triples
-
-
-if __name__ == "__main__":
-    extract_triples_from_table("./table_data_1.json")
