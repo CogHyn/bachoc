@@ -202,7 +202,7 @@ if __name__ == "__main__":
     kg_builder = KnowledgeGraphBuilder(
         triple_extraction=extractor,
         response_format=response_format,
-        threshold=0.25
+        threshold=0.9
     )
     
     start_total = time.perf_counter()
