@@ -19,7 +19,7 @@ class AsyncCostModel(AsyncBaseLLM):
 class AsyncGeminiModel(AsyncCostModel):
     def __init__(self, **args):
         super().__init__(**args)
-        self.instance = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+        self.instance = genai.Client(api_key=os.environ["GEMINI_API_KEY_3"])
         
         
     async def generate_response(self, context: str, **args):

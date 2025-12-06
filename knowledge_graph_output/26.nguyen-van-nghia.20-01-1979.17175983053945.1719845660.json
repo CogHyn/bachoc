@@ -1,0 +1,4950 @@
+{
+  "source_file": "./raw_data/26.nguyen-van-nghia.20-01-1979.17175983053945.1719845660.pdf",
+  "stages": [
+    {
+      "main_subject": "Nguyễn Văn Nghĩa",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Ngày tháng năm sinh: 20/01/1979"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Không",
+          "metadata": {
+            "source": "Nam ☑"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Quốc tịch: Việt Nam"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Kinh",
+          "metadata": {
+            "source": "Dân tộc: Kinh"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Không",
+          "metadata": {
+            "source": "Tôn giáo: Không"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Chưa",
+          "metadata": {
+            "source": "Đảng viên Đảng Cộng sản Việt Nam: ☑"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Quê quán (xã/phường, huyện/quận, tỉnh/thành phố): Xã Trực Thuận, huyện Trực Ninh, tỉnh Nam Định"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nơi đăng ký hộ khẩu thường trú (số nhà, phố/thôn, xã/phường, huyện/quận, tỉnh/thành phố): Số nhà 8, Tổ 3, Xóm Mới, thôn Tự Khoát, Ngũ Hiệp, Thanh Trì, Hà Nội"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Địa chỉ liên hệ (ghi rõ, đầy đủ để liên hệ được qua Bưu điện): Bộ môn Vật lý, Khoa Điện – Điện tử, Nhà A1, Trường Đại học Thủy lợi, 175 Tây Sơn, Đống Đa, Hà Nội"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "21.907",
+          "metadata": {
+            "source": "Điện thoại di động: 0915.248.589."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "nghia2000@gmail.com",
+          "metadata": {
+            "source": "E-mail: nghia_nvl@tlu.edu.vn; nghiangv@yahoo.com"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "nghia2000@gmail.com",
+          "metadata": {
+            "source": "E-mail: nghia_nvl@tlu.edu.vn; nghiangv@yahoo.com"
+          }
+        }
+      ]
+    },
+    {
+      "main_subject": "Nguyễn Văn Nghĩa",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Từ 07/2001 đến 03/2003: Giảng viên (Hợp đồng) tại Khoa Vật lý, Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Từ 07/2001 đến 03/2003: Giảng viên (Hợp đồng) tại Khoa Vật lý, Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Từ 07/2001 đến 03/2003: Giảng viên (Hợp đồng) tại Khoa Vật lý, Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Từ 07/2001 đến 03/2003: Giảng viên (Hợp đồng) tại Khoa Vật lý, Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Từ 04/2003 đến 12/2004: Giảng viên (Hợp đồng) tại Bộ môn Vật lý, Khoa Điện – Điện tử (Thủy Điện), Trường Đại học Thủy lợi"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Từ 04/2003 đến 12/2004: Giảng viên (Hợp đồng) tại Bộ môn Vật lý, Khoa Điện – Điện tử (Thủy Điện), Trường Đại học Thủy lợi"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Từ 04/2003 đến 12/2004: Giảng viên (Hợp đồng) tại Bộ môn Vật lý, Khoa Điện – Điện tử (Thủy Điện), Trường Đại học Thủy lợi"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Từ 04/2003 đến 12/2004: Giảng viên (Hợp đồng) tại Bộ môn Vật lý, Khoa Điện – Điện tử (Thủy Điện), Trường Đại học Thủy lợi"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Cơ quan công tác hiện nay: Trường Đại học Thủy lợi"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Địa chỉ cơ quan: 175 Tây Sơn, Đống Đa, Hà Nội"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "21.907",
+          "metadata": {
+            "source": "Điện thoại cơ quan: 024.38522201"
+          }
+        }
+      ]
+    },
+    {
+      "main_subject": "Nguyễn Văn Nghĩa",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 22 tháng 06 năm 2001; số văn bằng: B322313; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ĐH (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "18 HVCH/CK2/BSNT",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 22 tháng 06 năm 2001; số văn bằng: B322313; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ĐH (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Chưa",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 22 tháng 06 năm 2001; số văn bằng: B322313; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ĐH (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 22 tháng 06 năm 2001; số văn bằng: B322313; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ĐH (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 22 tháng 06 năm 2001; số văn bằng: B322313; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ĐH (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 22 tháng 06 năm 2001; số văn bằng: B322313; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ĐH (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ĐH ngày 22 tháng 06 năm 2001; số văn bằng: B322313; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ĐH (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Tai mũi\nhọng",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 24 tháng 04 năm 2009; số văn bằng: QM008167; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ThS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "quốc tịch",
+          "object": "18 HVCH/CK2/BSNT",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 24 tháng 04 năm 2009; số văn bằng: QM008167; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ThS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "quốc tịch",
+          "object": "Chưa",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 24 tháng 04 năm 2009; số văn bằng: QM008167; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ThS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 24 tháng 04 năm 2009; số văn bằng: QM008167; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ThS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 24 tháng 04 năm 2009; số văn bằng: QM008167; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ThS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 24 tháng 04 năm 2009; số văn bằng: QM008167; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ThS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng ThS ngày 24 tháng 04 năm 2009; số văn bằng: QM008167; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng ThS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2016; số văn bằng: QT001348; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng TS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "18 HVCH/CK2/BSNT",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2016; số văn bằng: QT001348; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng TS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Chưa",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2016; số văn bằng: QT001348; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng TS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2016; số văn bằng: QT001348; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng TS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2016; số văn bằng: QT001348; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng TS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2016; số văn bằng: QT001348; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng TS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2016; số văn bằng: QT001348; ngành: Vật lí, chuyên ngành: Vật lý lý thuyết và vật lý toán; Nơi cấp bằng TS (trường, nước): Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, Việt Nam."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó giáo sư tại HĐGS cơ sở: Trường Đại học Thủy lợi"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Chưa",
+          "metadata": {
+            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó giáo sư tại HĐGS ngành, liên ngành: Vật lý"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Hướng nghiên cứu 1: Nghiên cứu hiệu ứng động lượng tử cho hệ bán dẫn thấp chiều;"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Hướng nghiên cứu 2: Nghiên cứu hiện tượng truyền dẫn trong môi trường xốp;"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Hướng nghiên cứu 3: Nghiên cứu cấu trúc và tính chất cơ nhiệt động của vật liệu."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Ngoài ra, những nghiên cứu và công bố đều liên quan đến lĩnh vực Vật lý lý thuyết và vật lý toán."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Tai mũi\nhọng",
+          "metadata": {
+            "source": "Đã hướng dẫn (số lượng) 04 HVCH bảo vệ thành công luận văn ThS, chuyên ngành Vật lý lý thuyết và vật lý toán (02); Lí luận và phương pháp giảng dạy bộ môn Vật lí (02);"
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "quốc tịch",
+          "object": "Tai mũi\nhọng",
+          "metadata": {
+            "source": "Đã hướng dẫn (số lượng) 04 HVCH bảo vệ thành công luận văn ThS, chuyên ngành Vật lý lý thuyết và vật lý toán (02); Lí luận và phương pháp giảng dạy bộ môn Vật lí (02);"
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Đã hướng dẫn (số lượng) 04 HVCH bảo vệ thành công luận văn ThS, chuyên ngành Vật lý lý thuyết và vật lý toán (02); Lí luận và phương pháp giảng dạy bộ môn Vật lí (02);"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên: 04 đề tài cấp cơ sở với vai trò là chủ nhiệm đề tài;"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "02 quyển",
+          "metadata": {
+            "source": "Đã tham gia 01 đề tài NCKH Nafosted (Mã số: 103.99-2019.316) với vai trò là thư ký đề tài"
+          }
+        },
+        {
+          "subject": "02 quyển",
+          "predicate": "giới tính",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Đã tham gia 01 đề tài NCKH Nafosted (Mã số: 103.99-2019.316) với vai trò là thư ký đề tài"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "02 quyển",
+          "metadata": {
+            "source": "tham gia 03 đề tài NCKH Nafosted (Mã số: 103.01-2011.18; mã số: 103.99-2016.29 và mã số: 103.01-2019.55) với vai trò là thành viên nghiên cứu chủ chốt."
+          }
+        },
+        {
+          "subject": "02 quyển",
+          "predicate": "giới tính",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "tham gia 03 đề tài NCKH Nafosted (Mã số: 103.01-2011.18; mã số: 103.99-2016.29 và mã số: 103.01-2019.55) với vai trò là thành viên nghiên cứu chủ chốt."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Đã công bố (số lượng) 44 bài báo khoa học, trong đó 23 bài báo khoa học trên tạp chí quốc tế có uy tín;"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Đã công bố (số lượng) 44 bài báo khoa học, trong đó 23 bài báo khoa học trên tạp chí quốc tế có uy tín;"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "02 quyển",
+          "metadata": {
+            "source": "Số lượng sách đã xuất bản 01, trong đó 01 thuộc nhà xuất bản có uy tín;"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Số lượng sách đã xuất bản 01, trong đó 01 thuộc nhà xuất bản có uy tín;"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Bằng khen (về thành tích huấn luyện đội tuyển Olympic Vật lý sinh viên trong nhiều năm) Hội Vật lý Việt Nam (số khen thưởng: 023/HVLVN) 2016"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Bằng khen (về thành tích huấn luyện đội tuyển Olympic Vật lý sinh viên trong nhiều năm) Hội Vật lý Việt Nam (số khen thưởng: 023/HVLVN) 2016"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Bằng khen (về thành tích huấn luyện đội tuyển Olympic Vật lý sinh viên trong nhiều năm) Hội Vật lý Việt Nam (số khen thưởng: 023/HVLVN) 2016"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "21.907",
+          "metadata": {
+            "source": "Bằng khen (về thành tích huấn luyện đội tuyển Olympic Vật lý sinh viên trong nhiều năm) Hội Vật lý Việt Nam (số khen thưởng: 023/HVLVN) 2016"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Bằng khen (đã tham gia tích cực vào công tác tổ chức kỳ thi Olympic Vật lý sinh viên toàn quốc lần thứ XXV–2023) Hội Vật lý Việt Nam (số khen thưởng: 23LĐ60/HVLVN) 2023"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Bằng khen (đã tham gia tích cực vào công tác tổ chức kỳ thi Olympic Vật lý sinh viên toàn quốc lần thứ XXV–2023) Hội Vật lý Việt Nam (số khen thưởng: 23LĐ60/HVLVN) 2023"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "02 quyển",
+          "metadata": {
+            "source": "Bằng khen (đã tham gia tích cực vào công tác tổ chức kỳ thi Olympic Vật lý sinh viên toàn quốc lần thứ XXV–2023) Hội Vật lý Việt Nam (số khen thưởng: 23LĐ60/HVLVN) 2023"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "21.907",
+          "metadata": {
+            "source": "Bằng khen (đã tham gia tích cực vào công tác tổ chức kỳ thi Olympic Vật lý sinh viên toàn quốc lần thứ XXV–2023) Hội Vật lý Việt Nam (số khen thưởng: 23LĐ60/HVLVN) 2023"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "02 quyển",
+          "metadata": {
+            "source": "Tổng số năm thực hiện nhiệm vụ đào tạo: 19 năm 07 tháng."
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Tên ngoại ngữ thành thạo phục vụ chuyên môn: Tiếng Anh"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Tiếng Anh (văn bằng, chứng chỉ): Tiếng Anh B2"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nguyễn Thị Ngát X 04/2018-12/2018 Trường Đại học KHTN, ĐHQGHN 28/03/2019"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nguyễn Thị Ngát X 04/2018-12/2018 Trường Đại học KHTN, ĐHQGHN 28/03/2019"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Nguyễn Thị Ngát X 04/2018-12/2018 Trường Đại học KHTN, ĐHQGHN 28/03/2019"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nguyễn Thị Tươi X 05/2020-01/2021 Trường Đại học Giáo dục, ĐHQGHN 10/06/2021"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nguyễn Thị Tươi X 05/2020-01/2021 Trường Đại học Giáo dục, ĐHQGHN 10/06/2021"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Nguyễn Thị Tươi X 05/2020-01/2021 Trường Đại học Giáo dục, ĐHQGHN 10/06/2021"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Đào Văn Thành X 05/2020-12/2021 Trường Đại học KHTN, ĐHQGHN 28/03/2022"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Đào Văn Thành X 05/2020-12/2021 Trường Đại học KHTN, ĐHQGHN 28/03/2022"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Đào Văn Thành X 05/2020-12/2021 Trường Đại học KHTN, ĐHQGHN 28/03/2022"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nguyễn Huyền Anh X 06/2022-08/2023 Trường Đại học Giáo dục, ĐHQGHN 26/12/2023"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nguyễn Huyền Anh X 06/2022-08/2023 Trường Đại học Giáo dục, ĐHQGHN 26/12/2023"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Nguyễn Huyền Anh X 06/2022-08/2023 Trường Đại học Giáo dục, ĐHQGHN 26/12/2023"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Bài giảng Vật lý bán dẫn TK Nhà xuất bản Bách Khoa Hà Nội, năm 2023 GPXB: 1182023/CXBIPH/3701/BKHN, QĐXB 28/QĐ-ĐHBK-BKHN ngày 09/3/2023 ISBN: 978-604-316987-4 9 Đồng tác giả 139-172; 269-278; 294-335. (tổng số trang của cuốn sách là 336 trang) Số 466/GXNĐHTL ngày 13/6/2024"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Tai mũi\nhọng",
+          "metadata": {
+            "source": "Bài giảng Vật lý bán dẫn TK Nhà xuất bản Bách Khoa Hà Nội, năm 2023 GPXB: 1182023/CXBIPH/3701/BKHN, QĐXB 28/QĐ-ĐHBK-BKHN ngày 09/3/2023 ISBN: 978-604-316987-4 9 Đồng tác giả 139-172; 269-278; 294-335. (tổng số trang của cuốn sách là 336 trang) Số 466/GXNĐHTL ngày 13/6/2024"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "nhà xuất bản",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Bài giảng Vật lý bán dẫn TK Nhà xuất bản Bách Khoa Hà Nội, năm 2023 GPXB: 1182023/CXBIPH/3701/BKHN, QĐXB 28/QĐ-ĐHBK-BKHN ngày 09/3/2023 ISBN: 978-604-316987-4 9 Đồng tác giả 139-172; 269-278; 294-335. (tổng số trang của cuốn sách là 336 trang) Số 466/GXNĐHTL ngày 13/6/2024"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "21.907",
+          "metadata": {
+            "source": "Bài giảng Vật lý bán dẫn TK Nhà xuất bản Bách Khoa Hà Nội, năm 2023 GPXB: 1182023/CXBIPH/3701/BKHN, QĐXB 28/QĐ-ĐHBK-BKHN ngày 09/3/2023 ISBN: 978-604-316987-4 9 Đồng tác giả 139-172; 269-278; 294-335. (tổng số trang của cuốn sách là 336 trang) Số 466/GXNĐHTL ngày 13/6/2024"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "có ISBN",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Bài giảng Vật lý bán dẫn TK Nhà xuất bản Bách Khoa Hà Nội, năm 2023 GPXB: 1182023/CXBIPH/3701/BKHN, QĐXB 28/QĐ-ĐHBK-BKHN ngày 09/3/2023 ISBN: 978-604-316987-4 9 Đồng tác giả 139-172; 269-278; 294-335. (tổng số trang của cuốn sách là 336 trang) Số 466/GXNĐHTL ngày 13/6/2024"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Bài giảng Vật lý bán dẫn TK Nhà xuất bản Bách Khoa Hà Nội, năm 2023 GPXB: 1182023/CXBIPH/3701/BKHN, QĐXB 28/QĐ-ĐHBK-BKHN ngày 09/3/2023 ISBN: 978-604-316987-4 9 Đồng tác giả 139-172; 269-278; 294-335. (tổng số trang của cuốn sách là 336 trang) Số 466/GXNĐHTL ngày 13/6/2024"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "3",
+          "metadata": {
+            "source": "Bài giảng Vật lý bán dẫn TK Nhà xuất bản Bách Khoa Hà Nội, năm 2023 GPXB: 1182023/CXBIPH/3701/BKHN, QĐXB 28/QĐ-ĐHBK-BKHN ngày 09/3/2023 ISBN: 978-604-316987-4 9 Đồng tác giả 139-172; 269-278; 294-335. (tổng số trang của cuốn sách là 336 trang) Số 466/GXNĐHTL ngày 13/6/2024"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Thiết kế và lắp ráp con lắc xung kích CN QĐ 224/QĐĐHTL ngày 06/3/2012, cấp cơ sở 17/5/2012-21/11/2013 Biên bản đánh giá kết quả ngày 21/11/2013 Khá"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Chưa",
+          "metadata": {
+            "source": "Thiết kế và lắp ráp con lắc xung kích CN QĐ 224/QĐĐHTL ngày 06/3/2012, cấp cơ sở 17/5/2012-21/11/2013 Biên bản đánh giá kết quả ngày 21/11/2013 Khá"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Thiết kế và lắp ráp con lắc xung kích CN QĐ 224/QĐĐHTL ngày 06/3/2012, cấp cơ sở 17/5/2012-21/11/2013 Biên bản đánh giá kết quả ngày 21/11/2013 Khá"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "xếp loại kết quả",
+          "object": "Khá",
+          "metadata": {
+            "source": "Thiết kế và lắp ráp con lắc xung kích CN QĐ 224/QĐĐHTL ngày 06/3/2012, cấp cơ sở 17/5/2012-21/11/2013 Biên bản đánh giá kết quả ngày 21/11/2013 Khá"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nghiên cứu hiệu ứng âm – điện – từ trong dây lượng tử hình trụ bằng phương pháp phương trình động lượng tử CN 1267/QĐ-ĐHTL ngày 21/4/2015, cấp cơ sở 21/4/2015-26/5/2016 Biên bản đánh giá kết quả đề tài NCKH cấp cơ sở ngày 26/5/2016 Khá"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Chưa",
+          "metadata": {
+            "source": "Nghiên cứu hiệu ứng âm – điện – từ trong dây lượng tử hình trụ bằng phương pháp phương trình động lượng tử CN 1267/QĐ-ĐHTL ngày 21/4/2015, cấp cơ sở 21/4/2015-26/5/2016 Biên bản đánh giá kết quả đề tài NCKH cấp cơ sở ngày 26/5/2016 Khá"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Nghiên cứu hiệu ứng âm – điện – từ trong dây lượng tử hình trụ bằng phương pháp phương trình động lượng tử CN 1267/QĐ-ĐHTL ngày 21/4/2015, cấp cơ sở 21/4/2015-26/5/2016 Biên bản đánh giá kết quả đề tài NCKH cấp cơ sở ngày 26/5/2016 Khá"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "xếp loại kết quả",
+          "object": "Khá",
+          "metadata": {
+            "source": "Nghiên cứu hiệu ứng âm – điện – từ trong dây lượng tử hình trụ bằng phương pháp phương trình động lượng tử CN 1267/QĐ-ĐHTL ngày 21/4/2015, cấp cơ sở 21/4/2015-26/5/2016 Biên bản đánh giá kết quả đề tài NCKH cấp cơ sở ngày 26/5/2016 Khá"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nghiên cứu xây dựng các mô hình vật lý cho hiện tượng điện thế chảy, điện thẩm và dẫn điện trong môi trường xốp dưới điều kiện chưa bão hòa TK Nafosted: 103.99-2019.316 50/2020/103/HĐ TN ngày 01/4/2020 cấp Bộ 01/04/2020-01/04/2023 QĐ công nhận kết quả đánh giá đề tài, số 32/QĐ-HĐQLNafosted ngày 13/9/2023 Đạt"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "21.907",
+          "metadata": {
+            "source": "Nghiên cứu xây dựng các mô hình vật lý cho hiện tượng điện thế chảy, điện thẩm và dẫn điện trong môi trường xốp dưới điều kiện chưa bão hòa TK Nafosted: 103.99-2019.316 50/2020/103/HĐ TN ngày 01/4/2020 cấp Bộ 01/04/2020-01/04/2023 QĐ công nhận kết quả đánh giá đề tài, số 32/QĐ-HĐQLNafosted ngày 13/9/2023 Đạt"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nghiên cứu xây dựng các mô hình vật lý cho hiện tượng điện thế chảy, điện thẩm và dẫn điện trong môi trường xốp dưới điều kiện chưa bão hòa TK Nafosted: 103.99-2019.316 50/2020/103/HĐ TN ngày 01/4/2020 cấp Bộ 01/04/2020-01/04/2023 QĐ công nhận kết quả đánh giá đề tài, số 32/QĐ-HĐQLNafosted ngày 13/9/2023 Đạt"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "Nghiên cứu xây dựng các mô hình vật lý cho hiện tượng điện thế chảy, điện thẩm và dẫn điện trong môi trường xốp dưới điều kiện chưa bão hòa TK Nafosted: 103.99-2019.316 50/2020/103/HĐ TN ngày 01/4/2020 cấp Bộ 01/04/2020-01/04/2023 QĐ công nhận kết quả đánh giá đề tài, số 32/QĐ-HĐQLNafosted ngày 13/9/2023 Đạt"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "xếp loại kết quả",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Nghiên cứu xây dựng các mô hình vật lý cho hiện tượng điện thế chảy, điện thẩm và dẫn điện trong môi trường xốp dưới điều kiện chưa bão hòa TK Nafosted: 103.99-2019.316 50/2020/103/HĐ TN ngày 01/4/2020 cấp Bộ 01/04/2020-01/04/2023 QĐ công nhận kết quả đánh giá đề tài, số 32/QĐ-HĐQLNafosted ngày 13/9/2023 Đạt"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Tai mũi\nhọng",
+          "metadata": {
+            "source": "CN 2419/QĐ-ĐHTL ngày 01/9/2021, Đề tài trọng điểm cấp cơ sở (Mã số TLU.STF.21 - 06) 01/9/2021-20/12/2022 Biên bản đánh giá kết quả đề tài NCKH trọng điểm ngày 20/12/2022 Xuất sắc"
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "giới tính",
+          "object": "Chưa",
+          "metadata": {
+            "source": "CN 2419/QĐ-ĐHTL ngày 01/9/2021, Đề tài trọng điểm cấp cơ sở (Mã số TLU.STF.21 - 06) 01/9/2021-20/12/2022 Biên bản đánh giá kết quả đề tài NCKH trọng điểm ngày 20/12/2022 Xuất sắc"
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964",
+          "metadata": {
+            "source": "CN 2419/QĐ-ĐHTL ngày 01/9/2021, Đề tài trọng điểm cấp cơ sở (Mã số TLU.STF.21 - 06) 01/9/2021-20/12/2022 Biên bản đánh giá kết quả đề tài NCKH trọng điểm ngày 20/12/2022 Xuất sắc"
+          }
+        },
+        {
+          "subject": "Tai mũi\nhọng",
+          "predicate": "xếp loại kết quả",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "CN 2419/QĐ-ĐHTL ngày 01/9/2021, Đề tài trọng điểm cấp cơ sở (Mã số TLU.STF.21 - 06) 01/9/2021-20/12/2022 Biên bản đánh giá kết quả đề tài NCKH trọng điểm ngày 20/12/2022 Xuất sắc"
+          }
+        },
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam",
+          "metadata": {
+            "source": "Trong đó: Số lượng (ghi rõ các số TT) bài báo khoa học đăng trên tạp chí khoa học quốc tế có uy tín mà ƯV là tác giả chính sau PGS/TS: 9"
+          }
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "đã công bố",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "đã công bố",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "đã công bố",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "đã công bố",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "điện thoại di động",
+          "object": "Scopus Q4"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "Scopus Q4"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "nghia2000@gmail.com"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "đã công bố",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "điện thoại di động",
+          "object": "Scopus Q4"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Interaction of External Acoustic Waves-Confined ElectronsInternal Phonons in a Cylindrical Quantum Wire with an Infinite Potential in the Presence of an External Magnetic Field",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "Scopus Q4"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "Scopus Q4"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": ""
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "18 HVCH/CK2/BSNT"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "điện thoại di động",
+          "object": "Scopus Q4"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "giới tính",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "The influence of electromagnetic wave on the acoustomagnetoelectric effect in a quantum well with infinite potential",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Tai mũi\nhọng"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Chưa"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Khá"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Chưa"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Khá"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "TP Rostov, LB Nga"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Chưa"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Khá"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Tai mũi\nhọng"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "giới tính",
+          "object": "Chưa"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "Reference Book"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "nhà xuất bản",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "sinh ngày",
+          "object": "21.907"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "đã công bố",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "điện thoại di động",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "01/01/1964"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Chưa"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Đảng viên Đảng Cộng sản Việt Nam"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "02 quyển"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "Chưa"
+        }
+      ]
+    },
+    {
+      "stage_name": "Table Extraction",
+      "triples": [
+        {
+          "subject": "Đảng viên Đảng Cộng sản Việt Nam",
+          "predicate": "quốc tịch",
+          "object": "3"
+        }
+      ]
+    }
+  ]
+}

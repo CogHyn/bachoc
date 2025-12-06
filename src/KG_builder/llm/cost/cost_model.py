@@ -58,7 +58,8 @@ def _message_type(messages: list):
 class GeminiModel(CostModel):
     def __init__(self, **args):
         super().__init__(**args)
-        self.api_key = os.environ["GEMINI_API_KEY"]
+        self.api_key = os.environ["GEMINI_API_KEY_1"]
+        self.index = 0
         
         if not self.api_key:
             raise ValueError("Set api key in .env file of pass an valid api key")
@@ -91,26 +92,27 @@ class GeminiModel(CostModel):
                 config_params["response_schema"] = response_format["response_schema"]
                 
         config = GenerateContentConfig(**config_params)
-        
-        try:
-            response = self.instance.models.generate_content(
-                model=self.name,
-                contents=context, 
-                config=config
-            )
-            # check if text in response format
-            if hasattr(response, "text"):
-                return response.text
+        while True:
+            try:
+                response = self.instance.models.generate_content(
+                    model=self.name,
+                    contents=context, 
+                    config=config
+                )
+                break
+            except Exception as e:
+                self.index += 1
+                self.index %= 4
+                self.instance = genai.Client(api_key=os.getenv(f"GEMINI_API_KEY_{self.index + 1}"))
+                print(f"Error: Change to model: {self.index + 1}, {e}")
+        if hasattr(response, "text"):
+            return response.text    
+        elif hasattr(response, "candidate") and response.candidates():
+            return response.candidates[0].content.parts[0].text
+        else:
+            raise CostModelAPIError("No valid response from Gemini")
             
-            # check if candidate in response format
-            elif hasattr(response, "candidate") and response.candidates():
-                return response.candidates[0].content.parts[0].text
-            
-            else:
-                raise CostModelAPIError("No valid response from Gemini")
-        
-        except Exception as e:
-            raise CostModelAPIError(f"Error: {str(e)}")
+                
     
     
 class GPTModel(CostModel):

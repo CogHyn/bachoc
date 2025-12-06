@@ -6,9 +6,9 @@
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "sinh ngày",
-          "object": "18 - 11 - 1975",
+          "object": "18-11-1975",
           "metadata": {
-            "source": "2. Ngày tháng năm sinh: 18 - 11 - 1975"
+            "source": "Ngày tháng năm sinh: 18 - 11 - 1975; Nam \n"
           }
         },
         {
@@ -16,7 +16,7 @@
           "predicate": "giới tính",
           "object": "Nam",
           "metadata": {
-            "source": "2. Ngày tháng năm sinh: 18 - 11 - 1975; Nam \f0fe; Nữ □"
+            "source": "Ngày tháng năm sinh: 18 - 11 - 1975; Nam \n"
           }
         },
         {
@@ -46,17 +46,17 @@
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "là Đảng viên Đảng Cộng sản Việt Nam",
-          "object": "có",
+          "object": "True",
           "metadata": {
-            "source": "3. Đảng viên Đảng Cộng sản Việt Nam: \f0fe"
+            "source": "Đảng viên Đảng Cộng sản Việt Nam: \n"
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "quê quán",
-          "object": "xã/phường, huyện/quận, tỉnh/thành phố: Xã Hưng Thành - Huyện Hưng Nguyên - Tỉnh Nghệ An",
+          "object": "Xã Hưng Thành - Huyện Hưng Nguyên - Tỉnh Nghệ An",
           "metadata": {
-            "source": "4. Quê quán: xã/phường, huyện/quận, tỉnh/thành phố: Xã Hưng Thành - Huyện\nHưng Nguyên - Tỉnh Nghệ An."
+            "source": "Quê quán: xã/phường, huyện/quận, tỉnh/thành phố: Xã Hưng Thành - Huyện Hưng Nguyên - Tỉnh Nghệ An."
           }
         },
         {
@@ -64,7 +64,7 @@
           "predicate": "hộ khẩu thường trú",
           "object": "Khối 15 - Phường Cửa Nam - Thành phố Vinh - Tỉnh Nghệ An",
           "metadata": {
-            "source": "5. Nơi đăng ký hộ khẩu thường trú (số nhà, phố, phường, quận, thành phố hoặc\nxã, huyện, tỉnh): Khối 15 - Phường Cửa Nam - Thành phố Vinh - Tỉnh Nghệ An."
+            "source": "Nơi đăng ký hộ khẩu thường trú (số nhà, phố, phường, quận, thành phố hoặc xã, huyện, tỉnh): Khối 15 - Phường Cửa Nam - Thành phố Vinh - Tỉnh Nghệ An."
           }
         },
         {
@@ -72,7 +72,7 @@
           "predicate": "địa chỉ liên hệ",
           "object": "Nguyễn Văn Tuấn - Bộ môn Nội tổng hợp, Trường Đại học Y khoa Vinh, 161 - Nguyễn Phong Sắc - Phường Hưng Dũng - Thành phố Vinh - Tỉnh Nghệ An",
           "metadata": {
-            "source": "6. Địa chỉ liên hệ (ghi rõ, đầy đủ để liên hệ được qua Bưu điện): Nguyễn Văn\nTuấn - Bộ môn Nội tổng hợp, Trường Đại học Y khoa Vinh, 161 - Nguyễn Phong Sắc - Phường Hưng Dũng - Thành phố Vinh - Tỉnh Nghệ An."
+            "source": "Địa chỉ liên hệ (ghi rõ, đầy đủ để liên hệ được qua Bưu điện): Nguyễn Văn Tuấn - Bộ môn Nội tổng hợp, Trường Đại học Y khoa Vinh, 161 - Nguyễn Phong Sắc - Phường Hưng Dũng - Thành phố Vinh - Tỉnh Nghệ An."
           }
         },
         {
@@ -80,7 +80,7 @@
           "predicate": "điện thoại di động",
           "object": "0983 767134",
           "metadata": {
-            "source": "Điện thoại di động: 0983 767134 ;"
+            "source": "Điện thoại di động: 0983 767134;"
           }
         },
         {
@@ -225,7 +225,7 @@
           }
         },
         {
-          "subject": "Trưởng khoa Y học lâm sàng hệ Nội",
+          "subject": "khoa Y học lâm sàng hệ Nội",
           "predicate": "thuộc",
           "object": "Trường Đại học Y khoa Vinh",
           "metadata": {
@@ -309,7 +309,7 @@
           "predicate": "giữ chức vụ",
           "object": "Hiệu trưởng",
           "metadata": {
-            "source": "Chức vụ hiện nay: Hiệu trưởng, Trưởng BM Nội tổng hợp - Trường Đại học Y khoa Vinh."
+            "source": "Chức vụ hiện nay: Hiệu trưởng, Trưởng BM Nội tổng hợp\n- - Trường Đại học Y khoa Vinh."
           }
         },
         {
@@ -317,15 +317,15 @@
           "predicate": "giữ chức vụ",
           "object": "Trưởng BM Nội tổng hợp",
           "metadata": {
-            "source": "Chức vụ hiện nay: Hiệu trưởng, Trưởng BM Nội tổng hợp - Trường Đại học Y khoa Vinh."
+            "source": "Chức vụ hiện nay: Hiệu trưởng, Trưởng BM Nội tổng hợp\n- - Trường Đại học Y khoa Vinh."
           }
         },
         {
-          "subject": "Trưởng BM Nội tổng hợp",
+          "subject": "Hiệu trưởng",
           "predicate": "thuộc",
           "object": "Trường Đại học Y khoa Vinh",
           "metadata": {
-            "source": "Chức vụ hiện nay: Hiệu trưởng, Trưởng BM Nội tổng hợp - Trường Đại học Y khoa Vinh."
+            "source": "Chức vụ hiện nay: Hiệu trưởng, Trưởng BM Nội tổng hợp\n- - Trường Đại học Y khoa Vinh."
           }
         },
         {
@@ -394,7 +394,7 @@
           "predicate": "được cấp",
           "object": "bằng ĐH",
           "metadata": {
-            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y , chuyên ngành: Bác\nsĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
+            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y, chuyên ngành: Bác sĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
           }
         },
         {
@@ -402,7 +402,7 @@
           "predicate": "ngành",
           "object": "Y",
           "metadata": {
-            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y , chuyên ngành: Bác\nsĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
+            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y, chuyên ngành: Bác sĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
           }
         },
         {
@@ -410,7 +410,7 @@
           "predicate": "chuyên ngành",
           "object": "Bác sĩ đa khoa",
           "metadata": {
-            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y , chuyên ngành: Bác\nsĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
+            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y, chuyên ngành: Bác sĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
           }
         },
         {
@@ -418,7 +418,7 @@
           "predicate": "được cấp tại",
           "object": "Trường Đại học Y khoa Hà Nội",
           "metadata": {
-            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y , chuyên ngành: Bác\nsĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
+            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y, chuyên ngành: Bác sĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
           }
         },
         {
@@ -426,7 +426,7 @@
           "predicate": "tọa lạc ở",
           "object": "Việt Nam",
           "metadata": {
-            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y , chuyên ngành: Bác\nsĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
+            "source": "Được cấp bằng ĐH ngày 25 tháng 8 năm 1998, ngành: Y, chuyên ngành: Bác sĩ đa khoa Nơi cấp bằng ĐH: Trường Đại học Y khoa Hà Nội - Việt Nam."
           }
         },
         {
@@ -474,7 +474,7 @@
           "predicate": "được cấp",
           "object": "bằng TS",
           "metadata": {
-            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2015, ngành: Y; chuyên ngành: Nội\nThận - Tiết niệu."
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2015, ngành:\nY; chuyên ngành: Nội Thận - Tiết niệu."
           }
         },
         {
@@ -482,15 +482,15 @@
           "predicate": "ngành",
           "object": "Y",
           "metadata": {
-            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2015, ngành: Y; chuyên ngành: Nội\nThận - Tiết niệu."
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2015, ngành:\nY; chuyên ngành: Nội Thận - Tiết niệu."
           }
         },
         {
           "subject": "bằng TS",
           "predicate": "chuyên ngành",
-          "object": "Nội\nThận - Tiết niệu",
+          "object": "Nội Thận - Tiết niệu",
           "metadata": {
-            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2015, ngành: Y; chuyên ngành: Nội\nThận - Tiết niệu."
+            "source": "Được cấp bằng TS ngày 15 tháng 12 năm 2015, ngành:\nY; chuyên ngành: Nội Thận - Tiết niệu."
           }
         },
         {
@@ -498,7 +498,7 @@
           "predicate": "được cấp tại",
           "object": "Trường Đại học Y Dược Huế",
           "metadata": {
-            "source": "Nơi cấp bằng TS: Trường Đại học Y Dược Huế - Đại học Huế"
+            "source": "Nơi cấp bằng TS: Trường Đại học Y Dược Huế - Đại học [PAGE 3]\nHuế"
           }
         },
         {
@@ -506,15 +506,15 @@
           "predicate": "thuộc",
           "object": "Đại học Huế",
           "metadata": {
-            "source": "Nơi cấp bằng TS: Trường Đại học Y Dược Huế - Đại học Huế"
+            "source": "Nơi cấp bằng TS: Trường Đại học Y Dược Huế - Đại học [PAGE 3]\nHuế"
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
-          "predicate": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS cơ sở",
-          "object": "Trường\nĐại học Y Dược Thái Bình",
+          "predicate": "đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS cơ sở",
+          "object": "Trường Đại học Y Dược Thái Bình",
           "metadata": {
-            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo sư tại HĐGS cơ sở: Trường\nĐại học Y Dược Thái Bình."
+            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo sư tại HĐGS cơ sở: Trường Đại học Y Dược Thái Bình."
           }
         },
         {
@@ -522,7 +522,7 @@
           "predicate": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo Sư tại HĐGS ngành, liên ngành",
           "object": "Y",
           "metadata": {
-            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo sư tại HĐGS ngành, liên\nngành: Y"
+            "source": "Đăng ký xét đạt tiêu chuẩn chức danh Phó Giáo sư tại HĐGS ngành, liên ngành: Y [PAGE 3] Ban hành kèm theo Công văn số: 82/HĐGSNN ngày 18/5/2022 của Chủ tịch HĐGS nhà nước"
           }
         },
         {
@@ -530,63 +530,71 @@
           "predicate": "chủ yếu nghiên cứu",
           "object": "Hướng nghiên cứu về dịch tễ học các bệnh lý nội khoa",
           "metadata": {
-            "source": "- Hướng nghiên cứu về dịch tễ học các bệnh lý nội khoa"
+            "source": "Hướng nghiên cứu về dịch tễ học các bệnh lý nội khoa"
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "chủ yếu nghiên cứu",
-          "object": "Hướng nghiên cứu về đặc điểm lâm sàng, cận lâm sàng, điều trị và theo dõi các\nbệnh lý nội khoa",
+          "object": "Hướng nghiên cứu về đặc điểm lâm sàng, cận lâm sàng, điều trị và theo dõi các bệnh lý nội khoa",
           "metadata": {
-            "source": "- Hướng nghiên cứu về đặc điểm lâm sàng, cận lâm sàng, điều trị và theo dõi các\nbệnh lý nội khoa"
+            "source": "Hướng nghiên cứu về đặc điểm lâm sàng, cận lâm sàng, điều trị và theo dõi các bệnh lý nội khoa"
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "đã hướng dẫn bảo vệ thành công luận văn",
-          "object": "02 học viên cao học bảo vệ thành công luận văn thạc sĩ",
+          "object": "02 học viên cao học",
           "metadata": {
-            "source": "- Đã hướng dẫn chính 02 học viên cao học bảo vệ thành công luận văn thạc sĩ, 02\nhọc viên Bác sĩ CK2 bảo vệ thành công luận văn Bác sĩ chuyên khoa cấp II và hướng dẫn phụ 01 học viên cao học bảo vệ thành công luận văn thạc sĩ."
+            "source": "Đã hướng dẫn chính 02 học viên cao học bảo vệ thành công luận văn thạc sĩ, 02 học viên Bác sĩ CK2 bảo vệ thành công luận văn Bác sĩ chuyên khoa cấp II và hướng dẫn phụ 01 học viên cao học bảo vệ thành công luận văn thạc sĩ."
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "đã hướng dẫn bảo vệ thành công luận văn",
-          "object": "02 học viên Bác sĩ CK2 bảo vệ thành công luận văn Bác sĩ chuyên khoa cấp II",
+          "object": "02 học viên Bác sĩ CK2",
           "metadata": {
-            "source": "- Đã hướng dẫn chính 02 học viên cao học bảo vệ thành công luận văn thạc sĩ, 02\nhọc viên Bác sĩ CK2 bảo vệ thành công luận văn Bác sĩ chuyên khoa cấp II và hướng dẫn phụ 01 học viên cao học bảo vệ thành công luận văn thạc sĩ."
+            "source": "Đã hướng dẫn chính 02 học viên cao học bảo vệ thành công luận văn thạc sĩ, 02 học viên Bác sĩ CK2 bảo vệ thành công luận văn Bác sĩ chuyên khoa cấp II và hướng dẫn phụ 01 học viên cao học bảo vệ thành công luận văn thạc sĩ."
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
-          "predicate": "đã chủ nhiệm",
+          "predicate": "đã hướng dẫn bảo vệ thành công luận văn",
+          "object": "01 học viên cao học",
+          "metadata": {
+            "source": "Đã hướng dẫn chính 02 học viên cao học bảo vệ thành công luận văn thạc sĩ, 02 học viên Bác sĩ CK2 bảo vệ thành công luận văn Bác sĩ chuyên khoa cấp II và hướng dẫn phụ 01 học viên cao học bảo vệ thành công luận văn thạc sĩ."
+          }
+        },
+        {
+          "subject": "NGUYỄN VĂN TUẤN",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
           "object": "01 đề tài nghiên cứu khoa học cấp tỉnh",
           "metadata": {
-            "source": "- Đã chủ nhiệm 01 đề tài nghiên cứu khoa học cấp tỉnh, chủ nhiệm 06 đề tài khoa\nhọc cấp cơ sở, tham gia 01 đề tài khoa học cấp tỉnh và 03 đề tài nghiên cứu khoa học cấp cơ sở đã nghiệm thu."
+            "source": "Đã chủ nhiệm 01 đề tài nghiên cứu khoa học cấp tỉnh, chủ nhiệm 06 đề tài khoa học cấp cơ sở, tham gia 01 đề tài khoa học cấp tỉnh và 03 đề tài nghiên cứu khoa học cấp cơ sở đã nghiệm thu."
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
-          "predicate": "chủ nhiệm",
-          "object": "06 đề tài khoa\nhọc cấp cơ sở",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
+          "object": "06 đề tài khoa học cấp cơ sở",
           "metadata": {
-            "source": "- Đã chủ nhiệm 01 đề tài nghiên cứu khoa học cấp tỉnh, chủ nhiệm 06 đề tài khoa\nhọc cấp cơ sở, tham gia 01 đề tài khoa học cấp tỉnh và 03 đề tài nghiên cứu khoa học cấp cơ sở đã nghiệm thu."
+            "source": "Đã chủ nhiệm 01 đề tài nghiên cứu khoa học cấp tỉnh, chủ nhiệm 06 đề tài khoa học cấp cơ sở, tham gia 01 đề tài khoa học cấp tỉnh và 03 đề tài nghiên cứu khoa học cấp cơ sở đã nghiệm thu."
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
-          "predicate": "tham gia",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
           "object": "01 đề tài khoa học cấp tỉnh",
           "metadata": {
-            "source": "- Đã chủ nhiệm 01 đề tài nghiên cứu khoa học cấp tỉnh, chủ nhiệm 06 đề tài khoa\nhọc cấp cơ sở, tham gia 01 đề tài khoa học cấp tỉnh và 03 đề tài nghiên cứu khoa học cấp cơ sở đã nghiệm thu."
+            "source": "Đã chủ nhiệm 01 đề tài nghiên cứu khoa học cấp tỉnh, chủ nhiệm 06 đề tài khoa học cấp cơ sở, tham gia 01 đề tài khoa học cấp tỉnh và 03 đề tài nghiên cứu khoa học cấp cơ sở đã nghiệm thu."
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
-          "predicate": "tham gia",
+          "predicate": "đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên",
           "object": "03 đề tài nghiên cứu khoa học cấp cơ sở",
           "metadata": {
-            "source": "- Đã chủ nhiệm 01 đề tài nghiên cứu khoa học cấp tỉnh, chủ nhiệm 06 đề tài khoa\nhọc cấp cơ sở, tham gia 01 đề tài khoa học cấp tỉnh và 03 đề tài nghiên cứu khoa học cấp cơ sở đã nghiệm thu."
+            "source": "Đã chủ nhiệm 01 đề tài nghiên cứu khoa học cấp tỉnh, chủ nhiệm 06 đề tài khoa học cấp cơ sở, tham gia 01 đề tài khoa học cấp tỉnh và 03 đề tài nghiên cứu khoa học cấp cơ sở đã nghiệm thu."
           }
         },
         {
@@ -594,15 +602,15 @@
           "predicate": "đã công bố",
           "object": "85 bài báo khoa học",
           "metadata": {
-            "source": "- Đã công bố 85 bài báo khoa học, trong đó có 03 bài báo khoa học công bố\ntrên tạp chí quốc tế có uy tín."
+            "source": "Đã công bố 85 bài báo khoa học, trong đó có 03 bài báo khoa học công bố trên tạp chí quốc tế có uy tín."
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "đã công bố",
-          "object": "03 bài báo khoa học công bố\ntrên tạp chí quốc tế có uy tín",
+          "object": "03 bài báo khoa học",
           "metadata": {
-            "source": "- Đã công bố 85 bài báo khoa học, trong đó có 03 bài báo khoa học công bố\ntrên tạp chí quốc tế có uy tín."
+            "source": "Đã công bố 85 bài báo khoa học, trong đó có 03 bài báo khoa học công bố trên tạp chí quốc tế có uy tín."
           }
         },
         {
@@ -610,15 +618,15 @@
           "predicate": "đã xuất bản",
           "object": "03 sách",
           "metadata": {
-            "source": "- Số lượng sách đã xuất bản 03, trong đó 03 sách thuộc nhà xuất bản có uy tín;"
+            "source": "Số lượng sách đã xuất bản 03, trong đó 03 sách thuộc nhà xuất bản có uy tín;"
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "đã xuất bản",
-          "object": "03 sách thuộc nhà xuất bản có uy tín",
+          "object": "03 sách",
           "metadata": {
-            "source": "- Số lượng sách đã xuất bản 03, trong đó 03 sách thuộc nhà xuất bản có uy tín;"
+            "source": "Số lượng sách đã xuất bản 03, trong đó 03 sách thuộc nhà xuất bản có uy tín;"
           }
         },
         {
@@ -626,15 +634,15 @@
           "predicate": "được khen thưởng",
           "object": "Bằng khen của Thủ tướng Chính phủ năm 2020",
           "metadata": {
-            "source": "- Bằng khen của Thủ tướng Chính phủ năm 2020 (Quyết định số 97/QĐ-TTg ngày\n16/01/2020 của Thủ tướng Chính phủ)."
+            "source": "Bằng khen của Thủ tướng Chính phủ năm 2020 (Quyết [PAGE 4]\nđịnh số 97/QĐ-TTg ngày 16/01/2020 của Thủ tướng Chính phủ)."
           }
         },
         {
           "subject": "NGUYỄN VĂN TUẤN",
           "predicate": "được khen thưởng",
-          "object": "Bằng khen của Bộ trưởng Bộ Giáo dục và Đào tạo năm 2020",
+          "object": "Bằng khen của Bộ trưởng Bộ Giáo dục và Đào tạo năm\n2020",
           "metadata": {
-            "source": "- Bằng khen của Bộ trưởng Bộ Giáo dục và Đào tạo năm 2020 (Quyết định số\n2681/QĐ-BGDĐT ngày 18/9/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo)."
+            "source": "Bằng khen của Bộ trưởng Bộ Giáo dục và Đào tạo năm\n2020 (Quyết định số 2681/QĐ-BGDĐT ngày 18/9/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo)."
           }
         },
         {
@@ -642,7 +650,7 @@
           "predicate": "được khen thưởng",
           "object": "Danh hiệu chiến sĩ thi đua cấp tỉnh năm 2018",
           "metadata": {
-            "source": "- Danh hiệu chiến sĩ thi đua cấp tỉnh năm 2018 (Quyết định số 4370/QĐ-UBND\nngày 01/10/2018 của Chủ tịch UBND tỉnh Nghệ An)."
+            "source": "Danh hiệu chiến sĩ thi đua cấp tỉnh năm 2018 (Quyết định số 4370/QĐ-UBND ngày 01/10/2018 của Chủ tịch UBND tỉnh Nghệ An)."
           }
         },
         {
@@ -650,7 +658,7 @@
           "predicate": "được khen thưởng",
           "object": "Kỷ niệm chương “Vì thế hệ trẻ”",
           "metadata": {
-            "source": "- Kỷ niệm chương “Vì thế hệ trẻ” về thành tích đóng góp vào sự nghiệp giáo dục\nthế hệ trẻ và xây dựng tổ chức Đoàn (Quyết định số 259/QĐ/TWĐTN ngày 15/9/2020 của Ban chấp hành Trung ương Đoàn TNCS Hồ Chí Minh)."
+            "source": "Kỷ niệm chương “Vì thế hệ trẻ” về thành tích đóng góp vào sự nghiệp giáo dục thế hệ trẻ và xây dựng tổ chức Đoàn (Quyết định số 259/QĐ/TWĐTN ngày 15/9/2020 của Ban chấp hành Trung ương Đoàn TNCS Hồ Chí Minh)."
           }
         },
         {
@@ -658,7 +666,7 @@
           "predicate": "được khen thưởng",
           "object": "Bằng khen của Chủ tịch UBND tỉnh Nghệ An",
           "metadata": {
-            "source": "- Bằng khen của Chủ tịch UBND tỉnh Nghệ An vì đã có thành tích tiêu biểu trong\nlĩnh vực Khoa học và Công Nghệ, góp phần vào sự nghiệp phát triển Kinh tế - Xã hội trên địa bàn tỉnh Nghệ An (Quyết định số 2569/QĐ-UBND ngày 21 tháng 8 năm 2023 của Chủ tịch UBND tỉnh Nghệ An)."
+            "source": "Bằng khen của Chủ tịch UBND tỉnh Nghệ An vì đã có thành tích tiêu biểu trong lĩnh vực Khoa học và Công Nghệ, góp phần vào sự nghiệp phát triển Kinh tế - Xã hội trên địa bàn tỉnh Nghệ An (Quyết định số 2569/QĐ-UBND ngày 21 tháng 8 năm 2023 của Chủ tịch UBND tỉnh Nghệ An)."
           }
         }
       ]
